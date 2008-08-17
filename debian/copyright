@@ -4,9 +4,20 @@ The original source can always be found at:
         http://developer.berlios.de/projects/fullstory
 
 Copyright:
-
-    <Copyright (C) YYYY Name OfAuthor>
-    <likewise for another author>
+    apt2svg-entry2 wallpaper:
+      Copyright 2008 Niall Walsh niallwalsh@users.berlios.de
+      License: GPL2 or later
+      Also includes:
+        http://www.debian.org/logos/openlogo-nd.svg
+        License:  Debian Open Use Logo License
+        
+        http://svn.berlios.de/svnroot/repos/fullstory/sidux-art-erebos/trunk/dm-kdm/sidux-logo.svg
+          erebos wallpaper and derived themes:
+            - kdm theme
+          Copyright © 2008 by
+          Daniel Prien <d-s-p@d-s-p.de>
+          Bernard Gray <bernard.gray@gmail.com>
+          License: GPL2 or later
 
 License:
 

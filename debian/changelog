@@ -1,5 +1,7 @@
 sidux-art-ourea (0.0) unstable; urgency=low
 
   * Initial Release.
+  * add apt2svg-entry2 by bfree (wallpaper comp winner)
+  * update copyright for apt2svg inclusion
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sat, 26 Jul 2008 12:44:28 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Sun, 17 Aug 2008 16:48:36 +1000
