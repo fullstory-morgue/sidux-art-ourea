@@ -13,8 +13,9 @@ sidux-art-ourea (0.0.2) UNRELEASED; urgency=low
   * vacuum defs on splash*
   * add cubes.svg as potential layer for use in the *dm background
   * apply cubes to the dm background, add a dark screen
+  * bfree modified source to move/scale the logo slightly - updated svgs
 
- -- Bernard Gray <bernard.gray@gmail.com>  Thu, 21 Aug 2008 17:27:28 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Thu, 21 Aug 2008 17:30:39 +1000
 
 sidux-art-ourea (0.0.1) unstable; urgency=low
 

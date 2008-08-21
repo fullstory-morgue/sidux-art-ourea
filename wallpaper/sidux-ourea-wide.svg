@@ -19,7 +19,7 @@
    inkscape:version="0.46+devel"
    width="1920"
    height="1200"
-   sodipodi:docname="sidux-ourea-wide.svg"
+   sodipodi:docname="wallpaper/sidux-ourea-wide.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    style="overflow:visible"
@@ -243,4411 +243,4411 @@
    id="g60">
 
 <g
-   transform="scale(14.853666,14.853666)"
-   id="g62"
+   transform="scale(14.8536662340989,14.8536662340989)"
+   id="glinux-image-2.6.25-14.slh.2-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="51.719898"
+   x="43.6827"
+   y="51.7199"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use64"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-image-2.6.25-14.slh.2-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(14.829229,14.829229)"
-   id="g66"
+   transform="scale(14.829229180587,14.829229180587)"
+   id="glinux-image-2.6.26-1.slh.3-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="51.719898"
+   x="43.6827"
+   y="51.7199"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use68"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-image-2.6.26-1.slh.3-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(14.046707,14.046707)"
-   id="g70"
+   transform="scale(14.0467071905978,14.0467071905978)"
+   id="glinux-image-2.6.25-14.slh.2-sidux-686"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="51.719898"
+   x="43.6827"
+   y="51.7199"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use72"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-image-2.6.25-14.slh.2-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(13.989158,13.989158)"
-   id="g74"
+   transform="scale(13.9891576420438,13.9891576420438)"
+   id="glinux-image-2.6.26-1.slh.3-sidux-686"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="51.719898"
+   x="43.6827"
+   y="51.7199"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use76"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-image-2.6.26-1.slh.3-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(12.226494,12.226494)"
-   id="g78"
+   transform="scale(12.2264937625531,12.2264937625531)"
+   id="glinux-source-sidux-2.6.26"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="79.695602"
+   x="43.6827"
+   y="79.6956"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use80"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-source-sidux-2.6.26"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(12.16774,12.16774)"
-   id="g82"
+   transform="scale(12.1677403610319,12.1677403610319)"
+   id="glinux-source-sidux-2.6.25"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="79.695602"
+   x="43.6827"
+   y="79.6956"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use84"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-source-sidux-2.6.25"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(9.5908993,9.5908993)"
-   id="g86"
+   transform="scale(9.59089929716274,9.59089929716274)"
+   id="glinux-headers-2.6.26-1.slh.3-common"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="48.324699"
+   x="43.6827"
+   y="48.3247"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use88"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-headers-2.6.26-1.slh.3-common"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(9.5908993,9.5908993)"
-   id="g90"
+   transform="scale(9.59089929716274,9.59089929716274)"
+   id="glinux-headers-2.6.26-1.slh.3-common"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="48.324699"
+   x="43.6827"
+   y="48.3247"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use92"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-headers-2.6.26-1.slh.3-common"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(9.5358245,9.5358245)"
-   id="g94"
+   transform="scale(9.53582451835558,9.53582451835558)"
+   id="glinux-headers-2.6.25-14.slh.2-common"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="48.324699"
+   x="43.6827"
+   y="48.3247"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use96"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-headers-2.6.25-14.slh.2-common"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(9.5358245,9.5358245)"
-   id="g98"
+   transform="scale(9.53582451835558,9.53582451835558)"
+   id="glinux-headers-2.6.25-14.slh.2-common"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="48.324699"
+   x="43.6827"
+   y="48.3247"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use100"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-headers-2.6.25-14.slh.2-common"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(7.2506789,7.2506789)"
-   id="g102"
+   transform="scale(7.25067887537637,7.25067887537637)"
+   id="glinux-headers-2.6.26-1.slh.3-sidux-686"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="48.324699"
+   x="43.6827"
+   y="48.3247"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use104"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-headers-2.6.26-1.slh.3-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(7.21196,7.21196)"
-   id="g106"
+   transform="scale(7.21196000321573,7.21196000321573)"
+   id="glinux-headers-2.6.26-1.slh.3-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="48.324699"
+   x="43.6827"
+   y="48.3247"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use108"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-headers-2.6.26-1.slh.3-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(7.1910115,7.1910115)"
-   id="g110"
+   transform="scale(7.19101149333731,7.19101149333731)"
+   id="glinux-headers-2.6.25-14.slh.2-sidux-686"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="48.324699"
+   x="43.6827"
+   y="48.3247"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use112"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-headers-2.6.25-14.slh.2-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(7.1458443,7.1458443)"
-   id="g114"
+   transform="scale(7.14584425327535,7.14584425327535)"
+   id="glinux-headers-2.6.25-14.slh.2-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="48.324699"
+   x="43.6827"
+   y="48.3247"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use116"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-headers-2.6.25-14.slh.2-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(5.4455394,5.4455394)"
-   id="g118"
+   transform="scale(5.44553944686919,5.44553944686919)"
+   id="gsiduxcc"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="79.196404"
+   x="70.8749"
+   y="79.1964"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use120"
+   style="fill:rgb(0,128,192)"
+   id="usesiduxcc"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(5.3350689,5.3350689)"
-   id="g122"
+   transform="scale(5.33506887961052,5.33506887961052)"
+   id="gsiduxcc"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="79.196404"
+   x="70.8749"
+   y="79.1964"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use124"
+   style="fill:rgb(0,128,192)"
+   id="usesiduxcc"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(4.982656,4.982656)"
-   id="g126"
+   transform="scale(4.98265595577354,4.98265595577354)"
+   id="gsidux-manual-ja"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="61.9338"
    xlink:href="#swirl"
-   style="fill:#80dca3"
-   id="use128"
+   style="fill:rgb(128,220,163)"
+   id="usesidux-manual-ja"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(4.946592,4.946592)"
-   id="g130"
+   transform="scale(4.94659204307298,4.94659204307298)"
+   id="gsidux-manual-ru"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="61.9338"
    xlink:href="#swirl"
-   style="fill:#80dca3"
-   id="use132"
+   style="fill:rgb(128,220,163)"
+   id="usesidux-manual-ru"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(4.9344531,4.9344531)"
-   id="g134"
+   transform="scale(4.93445311809943,4.93445311809943)"
+   id="gsidux-manual-es"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="61.9338"
    xlink:href="#swirl"
-   style="fill:#80dca3"
-   id="use136"
+   style="fill:rgb(128,220,163)"
+   id="usesidux-manual-es"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(4.9283612,4.9283612)"
-   id="g138"
+   transform="scale(4.92836119447581,4.92836119447581)"
+   id="gsidux-manual-el"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="61.9338"
    xlink:href="#swirl"
-   style="fill:#80dca3"
-   id="use140"
+   style="fill:rgb(128,220,163)"
+   id="usesidux-manual-el"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(4.8032214,4.8032214)"
-   id="g142"
+   transform="scale(4.80322143147635,4.80322143147635)"
+   id="gsidux-manual-pt-br"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="61.9338"
    xlink:href="#swirl"
-   style="fill:#80dca3"
-   id="use144"
+   style="fill:rgb(128,220,163)"
+   id="usesidux-manual-pt-br"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(4.8032214,4.8032214)"
-   id="g146"
+   transform="scale(4.80322143147635,4.80322143147635)"
+   id="gsidux-manual-ro"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="61.9338"
    xlink:href="#swirl"
-   style="fill:#80dca3"
-   id="use148"
+   style="fill:rgb(128,220,163)"
+   id="usesidux-manual-ro"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(4.7989367,4.7989367)"
-   id="g150"
+   transform="scale(4.79893666432131,4.79893666432131)"
+   id="gsidux-manual-it"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="61.9338"
    xlink:href="#swirl"
-   style="fill:#80dca3"
-   id="use152"
+   style="fill:rgb(128,220,163)"
+   id="usesidux-manual-it"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(4.7989367,4.7989367)"
-   id="g154"
+   transform="scale(4.79893666432131,4.79893666432131)"
+   id="gsidux-art-wallpaper-eros-edu"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="29.9252"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use156"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-art-wallpaper-eros-edu"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(4.7881911,4.7881911)"
-   id="g158"
+   transform="scale(4.78819113650482,4.78819113650482)"
+   id="gsidux-manual-de"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="61.9338"
    xlink:href="#swirl"
-   style="fill:#80dca3"
-   id="use160"
+   style="fill:rgb(128,220,163)"
+   id="usesidux-manual-de"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(4.7860362,4.7860362)"
-   id="g162"
+   transform="scale(4.78603623471221,4.78603623471221)"
+   id="gsidux-manual-da"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="61.9338"
    xlink:href="#swirl"
-   style="fill:#80dca3"
-   id="use164"
+   style="fill:rgb(128,220,163)"
+   id="usesidux-manual-da"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(4.7773972,4.7773972)"
-   id="g166"
+   transform="scale(4.7773971613546,4.7773971613546)"
+   id="gsidux-manual-hr"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="61.9338"
    xlink:href="#swirl"
-   style="fill:#80dca3"
-   id="use168"
+   style="fill:rgb(128,220,163)"
+   id="usesidux-manual-hr"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(4.7687267,4.7687267)"
-   id="g170"
+   transform="scale(4.76872673002711,4.76872673002711)"
+   id="gsidux-manual-en"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="61.9338"
    xlink:href="#swirl"
-   style="fill:#80dca3"
-   id="use172"
+   style="fill:rgb(128,220,163)"
+   id="usesidux-manual-en"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(4.7643797,4.7643797)"
-   id="g174"
+   transform="scale(4.76437966587668,4.76437966587668)"
+   id="gsidux-manual-fr"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="61.9338"
    xlink:href="#swirl"
-   style="fill:#80dca3"
-   id="use176"
+   style="fill:rgb(128,220,163)"
+   id="usesidux-manual-fr"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(4.7425244,4.7425244)"
-   id="g178"
+   transform="scale(4.74252440598675,4.74252440598675)"
+   id="gsidux-manual-nl"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="61.9338"
    xlink:href="#swirl"
-   style="fill:#80dca3"
-   id="use180"
+   style="fill:rgb(128,220,163)"
+   id="usesidux-manual-nl"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(4.727105,4.727105)"
-   id="g182"
+   transform="scale(4.72710503525908,4.72710503525908)"
+   id="gsidux-art-wallpaper-eros"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="29.9252"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use184"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-art-wallpaper-eros"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(4.4948883,4.4948883)"
-   id="g186"
+   transform="scale(4.49488826659811,4.49488826659811)"
+   id="gsidux-art-wallpaper-nyx-edu"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="29.9252"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use188"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-art-wallpaper-nyx-edu"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(4.3457893,4.3457893)"
-   id="g190"
+   transform="scale(4.34578927678251,4.34578927678251)"
+   id="gsidux-art-wallpaper-erebos-edu"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="29.9252"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use192"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-art-wallpaper-erebos-edu"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(4.3115275,4.3115275)"
-   id="g194"
+   transform="scale(4.31152753581512,4.31152753581512)"
+   id="gsidux-art-kde-eros"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="29.9245"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use196"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-art-kde-eros"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(4.1573123,4.1573123)"
-   id="g198"
+   transform="scale(4.15731234826371,4.15731234826371)"
+   id="gsidux-art-wallpaper-nyx"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="29.9252"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use200"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-art-wallpaper-nyx"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(4.1487228,4.1487228)"
-   id="g202"
+   transform="scale(4.1487228354707,4.1487228354707)"
+   id="gvdr-skins"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="79.361"
+   x="82.0435"
+   y="79.3610"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use204"
+   style="fill:rgb(0,128,192)"
+   id="usevdr-skins"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(4.1081601,4.1081601)"
-   id="g206"
+   transform="scale(4.10816009849936,4.10816009849936)"
+   id="ggrub-gfxboot"
    style="opacity:0.25">
 	<use
    x="25.2299"
-   y="45.673302"
+   y="45.6733"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use208"
+   style="fill:rgb(0,128,192)"
+   id="usegrub-gfxboot"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(4.0757181,4.0757181)"
-   id="g210"
+   transform="scale(4.07571814066183,4.07571814066183)"
+   id="gsidux-art-kde-nyx"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="29.9245"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use212"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-art-kde-nyx"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(4.003084,4.003084)"
-   id="g214"
+   transform="scale(4.00308404131427,4.00308404131427)"
+   id="gvirtualbox-ose-modules-2.6.26-1.slh.3-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="82.583504"
-   y="68.858498"
+   x="82.5835"
+   y="68.8585"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use216"
+   style="fill:rgb(128,194,189)"
+   id="usevirtualbox-ose-modules-2.6.26-1.slh.3-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
    transform="scale(4,4)"
-   id="g218"
+   id="gvirtualbox-ose-modules-2.6.25-14.slh.2-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="82.583504"
-   y="68.858498"
+   x="82.5835"
+   y="68.8585"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use220"
+   style="fill:rgb(128,194,189)"
+   id="usevirtualbox-ose-modules-2.6.25-14.slh.2-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.8626196,3.8626196)"
-   id="g222"
+   transform="scale(3.8626196261328,3.8626196261328)"
+   id="gsidux-art-wallpaper-erebos"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="29.9252"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use224"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-art-wallpaper-erebos"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.7254084,3.7254084)"
-   id="g226"
+   transform="scale(3.72540835914596,3.72540835914596)"
+   id="ggfxboot"
    style="opacity:0.25">
 	<use
    x="23.9426"
-   y="45.673302"
+   y="45.6733"
    xlink:href="#swirl"
-   style="fill:#80b3cc"
-   id="use228"
+   style="fill:rgb(128,179,204)"
+   id="usegfxboot"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.7182784,3.7182784)"
-   id="g230"
+   transform="scale(3.71827837356673,3.71827837356673)"
+   id="ggfxboot"
    style="opacity:0.25">
 	<use
    x="23.9426"
-   y="45.673302"
+   y="45.6733"
    xlink:href="#swirl"
-   style="fill:#80b3cc"
-   id="use232"
+   style="fill:rgb(128,179,204)"
+   id="usegfxboot"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.7147031,3.7147031)"
-   id="g234"
+   transform="scale(3.71470310369508,3.71470310369508)"
+   id="gsidux-edu"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="39.9571"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use236"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-edu"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.7003327,3.7003327)"
-   id="g238"
+   transform="scale(3.70033273527436,3.70033273527436)"
+   id="gsidux-edu"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="39.9571"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use240"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-edu"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.6304984,3.6304984)"
-   id="g242"
+   transform="scale(3.63049840115686,3.63049840115686)"
+   id="gsidux-art-gnome-eros"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="29.924299"
+   x="70.8749"
+   y="29.9243"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use244"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-art-gnome-eros"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.5617658,3.5617658)"
-   id="g246"
+   transform="scale(3.56176576716292,3.56176576716292)"
+   id="gsiduxcc-common"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="35.2337"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use248"
+   style="fill:rgb(0,128,192)"
+   id="usesiduxcc-common"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.4283755,3.4283755)"
-   id="g250"
+   transform="scale(3.42837545421098,3.42837545421098)"
+   id="gsidux-art-gnome-nyx"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="29.924299"
+   x="70.8749"
+   y="29.9243"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use252"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-art-gnome-nyx"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.3641585,3.3641585)"
-   id="g254"
+   transform="scale(3.36415850832595,3.36415850832595)"
+   id="gseminarix-samples"
    style="opacity:0.25">
 	<use
-   x="70.468803"
-   y="78.598099"
+   x="70.4688"
+   y="78.5981"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use256"
+   style="fill:rgb(0,128,192)"
+   id="useseminarix-samples"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.3244206,3.3244206)"
-   id="g258"
+   transform="scale(3.32442063482576,3.32442063482576)"
+   id="ginstall-meta"
    style="opacity:0.25">
 	<use
-   x="32.570999"
-   y="62.254101"
+   x="32.5710"
+   y="62.2541"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use260"
+   style="fill:rgb(0,128,192)"
+   id="useinstall-meta"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.3109613,3.3109613)"
-   id="g262"
+   transform="scale(3.31096129459756,3.31096129459756)"
+   id="ginstall-meta"
    style="opacity:0.25">
 	<use
-   x="32.570999"
-   y="62.254101"
+   x="32.5710"
+   y="62.2541"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use264"
+   style="fill:rgb(0,128,192)"
+   id="useinstall-meta"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.2087339,3.2087339)"
-   id="g266"
+   transform="scale(3.20873385678304,3.20873385678304)"
+   id="gsidux-art-kde-tartaros"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="29.9245"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use268"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-art-kde-tartaros"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.1991124,3.1991124)"
-   id="g270"
+   transform="scale(3.19911240815022,3.19911240815022)"
+   id="gvdr-plugin-reelchannelscan"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="71.130096"
+   x="82.0435"
+   y="71.1301"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use272"
+   style="fill:rgb(0,128,192)"
+   id="usevdr-plugin-reelchannelscan"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.1942799,3.1942799)"
-   id="g274"
+   transform="scale(3.19427990470852,3.19427990470852)"
+   id="gvdr-plugin-radio"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="71.130096"
+   x="82.0435"
+   y="71.1301"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use276"
+   style="fill:rgb(0,128,192)"
+   id="usevdr-plugin-radio"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.1942799,3.1942799)"
-   id="g278"
+   transform="scale(3.19427990470852,3.19427990470852)"
+   id="gsidux-browser"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="32.692299"
+   x="70.8749"
+   y="32.6923"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use280"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-browser"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.1501137,3.1501137)"
-   id="g282"
+   transform="scale(3.1501136856344,3.1501136856344)"
+   id="gsidux-art-gdm-erebos"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="29.9242"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use284"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-art-gdm-erebos"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.1451293,3.1451293)"
-   id="g286"
+   transform="scale(3.14512932021102,3.14512932021102)"
+   id="ggrub-gfxboot"
    style="opacity:0.25">
 	<use
    x="25.2299"
-   y="45.673302"
+   y="45.6733"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use288"
+   style="fill:rgb(0,128,192)"
+   id="usegrub-gfxboot"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.1451293,3.1451293)"
-   id="g290"
+   transform="scale(3.14512932021102,3.14512932021102)"
+   id="gvdr-plugin-reelchannelscan"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="71.130096"
+   x="82.0435"
+   y="71.1301"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use292"
+   style="fill:rgb(0,128,192)"
+   id="usevdr-plugin-reelchannelscan"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.1351129,3.1351129)"
-   id="g294"
+   transform="scale(3.13511291696101,3.13511291696101)"
+   id="gsidux-art-kdm-erebos"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="29.9245"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use296"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-art-kdm-erebos"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.1199672,3.1199672)"
-   id="g298"
+   transform="scale(3.11996720771372,3.11996720771372)"
+   id="gliveusb-creator"
    style="opacity:0.25">
 	<use
-   x="43.705399"
+   x="43.7054"
    y="35.4473"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use300"
+   style="fill:rgb(0,128,192)"
+   id="useliveusb-creator"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.1199672,3.1199672)"
-   id="g302"
+   transform="scale(3.11996720771372,3.11996720771372)"
+   id="gliveusb-creator"
    style="opacity:0.25">
 	<use
-   x="43.705399"
+   x="43.7054"
    y="35.4473"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use304"
+   style="fill:rgb(0,128,192)"
+   id="useliveusb-creator"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.1199672,3.1199672)"
-   id="g306"
+   transform="scale(3.11996720771372,3.11996720771372)"
+   id="gvdr-plugin-radio"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="71.130096"
+   x="82.0435"
+   y="71.1301"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use308"
+   style="fill:rgb(0,128,192)"
+   id="usevdr-plugin-radio"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.0995413,3.0995413)"
-   id="g310"
+   transform="scale(3.0995413049304,3.0995413049304)"
+   id="ggfxboot-theme-sidux-2007-01-chaos"
    style="opacity:0.25">
 	<use
    x="23.9426"
-   y="81.898598"
+   y="81.8986"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use312"
+   style="fill:rgb(0,128,192)"
+   id="usegfxboot-theme-sidux-2007-01-chaos"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.0995413,3.0995413)"
-   id="g314"
+   transform="scale(3.0995413049304,3.0995413049304)"
+   id="ggfxboot-theme-sidux-2007-03-gaia"
    style="opacity:0.25">
 	<use
    x="23.9426"
-   y="81.898598"
+   y="81.8986"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use316"
+   style="fill:rgb(0,128,192)"
+   id="usegfxboot-theme-sidux-2007-03-gaia"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.0995413,3.0995413)"
-   id="g318"
+   transform="scale(3.0995413049304,3.0995413049304)"
+   id="ggfxboot-theme-sidux-2007-02-tartaros"
    style="opacity:0.25">
 	<use
    x="23.9426"
-   y="81.898598"
+   y="81.8986"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use320"
+   style="fill:rgb(0,128,192)"
+   id="usegfxboot-theme-sidux-2007-02-tartaros"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.068388,3.068388)"
-   id="g322"
+   transform="scale(3.0683880275053,3.0683880275053)"
+   id="ggfxboot-theme-sidux-2008-01-nyx-de"
    style="opacity:0.25">
 	<use
    x="23.9426"
-   y="81.898598"
+   y="81.8986"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use324"
+   style="fill:rgb(0,128,192)"
+   id="usegfxboot-theme-sidux-2008-01-nyx-de"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.068388,3.068388)"
-   id="g326"
+   transform="scale(3.0683880275053,3.0683880275053)"
+   id="ggfxboot-theme-sidux-2008-01-nyx"
    style="opacity:0.25">
 	<use
    x="23.9426"
-   y="81.898598"
+   y="81.8986"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use328"
+   style="fill:rgb(0,128,192)"
+   id="usegfxboot-theme-sidux-2008-01-nyx"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.0578617,3.0578617)"
-   id="g330"
+   transform="scale(3.05786174228103,3.05786174228103)"
+   id="gseminarix-handbook-de"
    style="opacity:0.25">
 	<use
-   x="70.468803"
+   x="70.4688"
    y="48.0439"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use332"
+   style="fill:rgb(0,128,192)"
+   id="useseminarix-handbook-de"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.0472625,3.0472625)"
-   id="g334"
+   transform="scale(3.04726248308597,3.04726248308597)"
+   id="ggfxboot-theme-sidux-2008-02-erebos-ie"
    style="opacity:0.25">
 	<use
    x="23.9426"
-   y="81.898598"
+   y="81.8986"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use336"
+   style="fill:rgb(0,128,192)"
+   id="usegfxboot-theme-sidux-2008-02-erebos-ie"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.0472625,3.0472625)"
-   id="g338"
+   transform="scale(3.04726248308597,3.04726248308597)"
+   id="ggfxboot-theme-sidux-2007-04-eros-de"
    style="opacity:0.25">
 	<use
    x="23.9426"
-   y="81.898598"
+   y="81.8986"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use340"
+   style="fill:rgb(0,128,192)"
+   id="usegfxboot-theme-sidux-2007-04-eros-de"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.0472625,3.0472625)"
-   id="g342"
+   transform="scale(3.04726248308597,3.04726248308597)"
+   id="ggfxboot-theme-sidux-2007-04-eros"
    style="opacity:0.25">
 	<use
    x="23.9426"
-   y="81.898598"
+   y="81.8986"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use344"
+   style="fill:rgb(0,128,192)"
+   id="usegfxboot-theme-sidux-2007-04-eros"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.0472625,3.0472625)"
-   id="g346"
+   transform="scale(3.04726248308597,3.04726248308597)"
+   id="ggfxboot-theme-sidux-2008-02-erebos"
    style="opacity:0.25">
 	<use
    x="23.9426"
-   y="81.898598"
+   y="81.8986"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use348"
+   style="fill:rgb(0,128,192)"
+   id="usegfxboot-theme-sidux-2008-02-erebos"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(3.0472625,3.0472625)"
-   id="g350"
+   transform="scale(3.04726248308597,3.04726248308597)"
+   id="ggfxboot-theme-sidux-2008-02-erebos-de"
    style="opacity:0.25">
 	<use
    x="23.9426"
-   y="81.898598"
+   y="81.8986"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use352"
+   style="fill:rgb(0,128,192)"
+   id="usegfxboot-theme-sidux-2008-02-erebos-de"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.9820603,2.9820603)"
-   id="g354"
+   transform="scale(2.98206028862654,2.98206028862654)"
+   id="gsidux-art-wallpaper-tartaros"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="29.9252"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use356"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-art-wallpaper-tartaros"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.9764967,2.9764967)"
-   id="g358"
+   transform="scale(2.97649673038969,2.97649673038969)"
+   id="gsidux-vdr-server-data"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="87.173798"
+   x="70.8749"
+   y="87.1738"
    xlink:href="#swirl"
-   style="fill:#80ef90"
-   id="use360"
+   style="fill:rgb(128,239,144)"
+   id="usesidux-vdr-server-data"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.9540317,2.9540317)"
-   id="g362"
+   transform="scale(2.95403174779576,2.95403174779576)"
+   id="gkappinstaller"
    style="opacity:0.25">
 	<use
    x="38.9352"
-   y="56.382301"
+   y="56.3823"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use364"
+   style="fill:rgb(0,128,192)"
+   id="usekappinstaller"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.936956,2.936956)"
-   id="g366"
+   transform="scale(2.93695603830345,2.93695603830345)"
+   id="gkappinstaller"
    style="opacity:0.25">
 	<use
    x="38.9352"
-   y="56.382301"
+   y="56.3823"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use368"
+   style="fill:rgb(0,128,192)"
+   id="usekappinstaller"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.9312198,2.9312198)"
-   id="g370"
+   transform="scale(2.93121978143879,2.93121978143879)"
+   id="gsidux-art-kde-gaia"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="29.9245"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use372"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-art-kde-gaia"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.925461,2.925461)"
-   id="g374"
+   transform="scale(2.92546098510971,2.92546098510971)"
+   id="gipw2200-firmware"
    style="opacity:0.25">
 	<use
-   x="32.796799"
-   y="43.114799"
+   x="32.7968"
+   y="43.1148"
    xlink:href="#swirl"
-   style="fill:#80b9c6"
-   id="use376"
+   style="fill:rgb(128,185,198)"
+   id="useipw2200-firmware"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.8844991,2.8844991)"
-   id="g378"
+   transform="scale(2.88449914061482,2.88449914061482)"
+   id="ginstall-gui"
    style="opacity:0.25">
 	<use
-   x="32.570999"
-   y="46.798801"
+   x="32.5710"
+   y="46.7988"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use380"
+   style="fill:rgb(0,128,192)"
+   id="useinstall-gui"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.8844991,2.8844991)"
-   id="g382"
+   transform="scale(2.88449914061482,2.88449914061482)"
+   id="ginstall-gui"
    style="opacity:0.25">
 	<use
-   x="32.570999"
-   y="46.798801"
+   x="32.5710"
+   y="46.7988"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use384"
+   style="fill:rgb(0,128,192)"
+   id="useinstall-gui"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.8785517,2.8785517)"
-   id="g386"
+   transform="scale(2.87855170283287,2.87855170283287)"
+   id="glinux-patch-sidux-2.6.25"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="70.278999"
+   x="43.6827"
+   y="70.2790"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use388"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-patch-sidux-2.6.25"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.8680841,2.8680841)"
-   id="g390"
+   transform="scale(2.86808414965055,2.86808414965055)"
+   id="glibui-dialog-perl"
    style="opacity:0.25">
 	<use
-   x="78.702698"
-   y="37.522701"
+   x="78.7027"
+   y="37.5227"
    xlink:href="#swirl"
-   style="fill:#80fb84"
-   id="use392"
+   style="fill:rgb(128,251,132)"
+   id="uselibui-dialog-perl"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.8665825,2.8665825)"
-   id="g394"
+   transform="scale(2.86658253463803,2.86658253463803)"
+   id="gsidux-art-wallpaper-gaia"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="29.9252"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use396"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-art-wallpaper-gaia"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.8665825,2.8665825)"
-   id="g398"
+   transform="scale(2.86658253463803,2.86658253463803)"
+   id="gksplash-theme-sidux-2006"
    style="opacity:0.25">
 	<use
-   x="40.879299"
-   y="81.898598"
+   x="40.8793"
+   y="81.8986"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use400"
+   style="fill:rgb(0,128,192)"
+   id="useksplash-theme-sidux-2006"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.8545126,2.8545126)"
-   id="g402"
+   transform="scale(2.85451257048195,2.85451257048195)"
+   id="gceni"
    style="opacity:0.25">
 	<use
-   x="8.2496004"
-   y="34.464001"
+   x="8.2496"
+   y="34.4640"
    xlink:href="#swirl"
-   style="fill:#80ec93"
-   id="use404"
+   style="fill:rgb(128,236,147)"
+   id="useceni"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.817676,2.817676)"
-   id="g406"
+   transform="scale(2.81767603457339,2.81767603457339)"
+   id="glinux-kbuild-2.6.26"
    style="opacity:0.25">
 	<use
-   x="43.682701"
+   x="43.6827"
    y="56.4697"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use408"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-kbuild-2.6.26"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.7076987,2.7076987)"
-   id="g410"
+   transform="scale(2.70769873363045,2.70769873363045)"
+   id="gconfigure-dsl"
    style="opacity:0.25">
 	<use
-   x="9.3296003"
-   y="38.317402"
+   x="9.3296"
+   y="38.3174"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use412"
+   style="fill:rgb(0,128,192)"
+   id="useconfigure-dsl"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.7009463,2.7009463)"
-   id="g414"
+   transform="scale(2.7009463396813,2.7009463396813)"
+   id="ggspca-modules-2.6.25-14.slh.2-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="25.323"
-   y="62.992599"
+   x="25.3230"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use416"
+   style="fill:rgb(128,194,189)"
+   id="usegspca-modules-2.6.25-14.slh.2-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.6873393,2.6873393)"
-   id="g418"
+   transform="scale(2.68733932630486,2.68733932630486)"
+   id="ggspca-modules-2.6.26-1.slh.3-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="25.323"
-   y="62.992599"
+   x="25.3230"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use420"
+   style="fill:rgb(128,194,189)"
+   id="usegspca-modules-2.6.26-1.slh.3-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.6666667,2.6666667)"
-   id="g422"
+   transform="scale(2.66666666666667,2.66666666666667)"
+   id="gsidux-manual-common"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="61.9338"
    xlink:href="#swirl"
-   style="fill:#80dca3"
-   id="use424"
+   style="fill:rgb(128,220,163)"
+   id="usesidux-manual-common"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.6597041,2.6597041)"
-   id="g426"
+   transform="scale(2.6597040588286,2.6597040588286)"
+   id="gbtrfs-modules-2.6.26-1.slh.3-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="5.9928002"
-   y="62.992599"
+   x="5.9928"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use428"
+   style="fill:rgb(128,194,189)"
+   id="usebtrfs-modules-2.6.26-1.slh.3-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.6527048,2.6527048)"
-   id="g430"
+   transform="scale(2.65270480526426,2.65270480526426)"
+   id="gbtrfs-modules-2.6.25-14.slh.2-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="5.9928002"
-   y="62.992599"
+   x="5.9928"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use432"
+   style="fill:rgb(128,194,189)"
+   id="usebtrfs-modules-2.6.25-14.slh.2-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.6527048,2.6527048)"
-   id="g434"
+   transform="scale(2.65270480526426,2.65270480526426)"
+   id="gsshstart"
    style="opacity:0.25">
 	<use
-   x="71.967003"
-   y="79.976402"
+   x="71.9670"
+   y="79.9764"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use436"
+   style="fill:rgb(0,128,192)"
+   id="usesshstart"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.6456684,2.6456684)"
-   id="g438"
+   transform="scale(2.645668419947,2.645668419947)"
+   id="gvdr-plugin-wirbelscan"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="71.130096"
+   x="82.0435"
+   y="71.1301"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use440"
+   style="fill:rgb(0,128,192)"
+   id="usevdr-plugin-wirbelscan"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.6243315,2.6243315)"
-   id="g442"
+   transform="scale(2.62433145540145,2.62433145540145)"
+   id="glirc-modules-modules-2.6.26-1.slh.3-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="43.693199"
-   y="62.992599"
+   x="43.6932"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use444"
+   style="fill:rgb(128,194,189)"
+   id="uselirc-modules-modules-2.6.26-1.slh.3-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.5656674,2.5656674)"
-   id="g446"
+   transform="scale(2.5656674208512,2.5656674208512)"
+   id="ginstall-usb-gui"
    style="opacity:0.25">
 	<use
-   x="32.570999"
-   y="85.518402"
+   x="32.5710"
+   y="85.5184"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use448"
+   style="fill:rgb(0,128,192)"
+   id="useinstall-usb-gui"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.5656674,2.5656674)"
-   id="g450"
+   transform="scale(2.5656674208512,2.5656674208512)"
+   id="ggspca-modules-2.6.25-14.slh.2-sidux-686"
    style="opacity:0.25">
 	<use
-   x="25.323"
-   y="62.992599"
+   x="25.3230"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use452"
+   style="fill:rgb(128,194,189)"
+   id="usegspca-modules-2.6.25-14.slh.2-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.5581434,2.5581434)"
-   id="g454"
+   transform="scale(2.55814342626999,2.55814342626999)"
+   id="ginstall-usb-gui"
    style="opacity:0.25">
 	<use
-   x="32.570999"
-   y="85.518402"
+   x="32.5710"
+   y="85.5184"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use456"
+   style="fill:rgb(0,128,192)"
+   id="useinstall-usb-gui"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.5581434,2.5581434)"
-   id="g458"
+   transform="scale(2.55814342626999,2.55814342626999)"
+   id="ggspca-modules-2.6.26-1.slh.3-sidux-686"
    style="opacity:0.25">
 	<use
-   x="25.323"
-   y="62.992599"
+   x="25.3230"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use460"
+   style="fill:rgb(128,194,189)"
+   id="usegspca-modules-2.6.26-1.slh.3-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.5581434,2.5581434)"
-   id="g462"
+   transform="scale(2.55814342626999,2.55814342626999)"
+   id="gvdr-plugin-wirbelscan"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="71.130096"
+   x="82.0435"
+   y="71.1301"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use464"
+   style="fill:rgb(0,128,192)"
+   id="usevdr-plugin-wirbelscan"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.5429612,2.5429612)"
-   id="g466"
+   transform="scale(2.54296120861771,2.54296120861771)"
+   id="gndiswrapper-modules-2.6.26-1.slh.3-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="50.905201"
-   y="62.992599"
+   x="50.9052"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use468"
+   style="fill:rgb(128,194,189)"
+   id="usendiswrapper-modules-2.6.26-1.slh.3-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.5353016,2.5353016)"
-   id="g470"
+   transform="scale(2.53530164050759,2.53530164050759)"
+   id="gndiswrapper-modules-2.6.25-14.slh.2-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="50.905201"
-   y="62.992599"
+   x="50.9052"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use472"
+   style="fill:rgb(128,194,189)"
+   id="usendiswrapper-modules-2.6.25-14.slh.2-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.5275955,2.5275955)"
-   id="g474"
+   transform="scale(2.52759550895859,2.52759550895859)"
+   id="glinux-patch-sidux-2.6.26"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="70.278999"
+   x="43.6827"
+   y="70.2790"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use476"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-patch-sidux-2.6.26"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.4803396,2.4803396)"
-   id="g478"
+   transform="scale(2.48033962024564,2.48033962024564)"
+   id="gsidux-kernelhacking"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="56.695099"
+   x="70.8749"
+   y="56.6951"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use480"
+   style="fill:rgb(128,194,189)"
+   id="usesidux-kernelhacking"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.4722865,2.4722865)"
-   id="g482"
+   transform="scale(2.47228651284413,2.47228651284413)"
+   id="gbtrfs-modules-2.6.26-1.slh.3-sidux-686"
    style="opacity:0.25">
 	<use
-   x="5.9928002"
-   y="62.992599"
+   x="5.9928"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use484"
+   style="fill:rgb(128,194,189)"
+   id="usebtrfs-modules-2.6.26-1.slh.3-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.4722865,2.4722865)"
-   id="g486"
+   transform="scale(2.47228651284413,2.47228651284413)"
+   id="gvdr-plugin-osdpip"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="71.130096"
+   x="82.0435"
+   y="71.1301"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use488"
+   style="fill:rgb(0,128,192)"
+   id="usevdr-plugin-osdpip"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.4641806,2.4641806)"
-   id="g490"
+   transform="scale(2.4641805972379,2.4641805972379)"
+   id="gbtrfs-modules-2.6.25-14.slh.2-sidux-686"
    style="opacity:0.25">
 	<use
-   x="5.9928002"
-   y="62.992599"
+   x="5.9928"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use492"
+   style="fill:rgb(128,194,189)"
+   id="usebtrfs-modules-2.6.25-14.slh.2-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.4641806,2.4641806)"
-   id="g494"
+   transform="scale(2.4641805972379,2.4641805972379)"
+   id="glirc-modules-modules-2.6.26-1.slh.3-sidux-686"
    style="opacity:0.25">
 	<use
-   x="43.693199"
-   y="62.992599"
+   x="43.6932"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use496"
+   style="fill:rgb(128,194,189)"
+   id="uselirc-modules-modules-2.6.26-1.slh.3-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.456021,2.456021)"
-   id="g498"
+   transform="scale(2.45602099909359,2.45602099909359)"
+   id="gvdr-plugin-text2skin"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="71.130096"
+   x="82.0435"
+   y="71.1301"
    xlink:href="#swirl"
-   style="fill:#80f48b"
-   id="use500"
+   style="fill:rgb(128,244,139)"
+   id="usevdr-plugin-text2skin"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.4478068,2.4478068)"
-   id="g502"
+   transform="scale(2.44780682068332,2.44780682068332)"
+   id="gsfc-modules-2.6.25-14.slh.2-sidux-amd64"
    style="opacity:0.25">
 	<use
    x="70.5476"
-   y="62.992599"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use504"
+   style="fill:rgb(128,194,189)"
+   id="usesfc-modules-2.6.25-14.slh.2-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.431211,2.431211)"
-   id="g506"
+   transform="scale(2.43121100992289,2.43121100992289)"
+   id="gvdr-plugin-osdpip"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="71.130096"
+   x="82.0435"
+   y="71.1301"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use508"
+   style="fill:rgb(0,128,192)"
+   id="usevdr-plugin-osdpip"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.4228275,2.4228275)"
-   id="g510"
+   transform="scale(2.42282745710952,2.42282745710952)"
+   id="gvdr-plugin-text2skin"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="71.130096"
+   x="82.0435"
+   y="71.1301"
    xlink:href="#swirl"
-   style="fill:#80f48b"
-   id="use512"
+   style="fill:rgb(128,244,139)"
+   id="usevdr-plugin-text2skin"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.4143855,2.4143855)"
-   id="g514"
+   transform="scale(2.41438548114725,2.41438548114725)"
+   id="gsidux-releasenotes"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="76.126099"
+   x="70.8749"
+   y="76.1261"
    xlink:href="#swirl"
-   style="fill:#ffffff"
-   id="use516"
+   style="fill:rgb(255,255,255)"
+   id="usesidux-releasenotes"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.3886986,2.3886986)"
-   id="g518"
+   transform="scale(2.3886985806773,2.3886985806773)"
+   id="gvdr-plugin-pvrinput"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="71.130096"
+   x="82.0435"
+   y="71.1301"
    xlink:href="#swirl"
-   style="fill:#ffffff"
-   id="use520"
+   style="fill:rgb(255,255,255)"
+   id="usevdr-plugin-pvrinput"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.3886986,2.3886986)"
-   id="g522"
+   transform="scale(2.3886985806773,2.3886985806773)"
+   id="gvdr-plugin-pvrinput"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="71.130096"
+   x="82.0435"
+   y="71.1301"
    xlink:href="#swirl"
-   style="fill:#ffffff"
-   id="use524"
+   style="fill:rgb(255,255,255)"
+   id="usevdr-plugin-pvrinput"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.362447,2.362447)"
-   id="g526"
+   transform="scale(2.36244702050025,2.36244702050025)"
+   id="gvdr-addon-noad"
    style="opacity:0.25">
 	<use
-   x="82.043503"
+   x="82.0435"
    y="28.8102"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use528"
+   style="fill:rgb(0,128,192)"
+   id="usevdr-addon-noad"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.3446166,2.3446166)"
-   id="g530"
+   transform="scale(2.34461655199922,2.34461655199922)"
+   id="gvdr-addon-noad"
    style="opacity:0.25">
 	<use
-   x="82.043503"
+   x="82.0435"
    y="28.8102"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use532"
+   style="fill:rgb(0,128,192)"
+   id="usevdr-addon-noad"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.2988115,2.2988115)"
-   id="g534"
+   transform="scale(2.29881149358849,2.29881149358849)"
+   id="gsetpassword"
    style="opacity:0.25">
 	<use
-   x="70.490402"
+   x="70.4904"
    y="78.9217"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use536"
+   style="fill:rgb(0,128,192)"
+   id="usesetpassword"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.2799679,2.2799679)"
-   id="g538"
+   transform="scale(2.27996792890226,2.27996792890226)"
+   id="gaufs-modules-2.6.26-1.slh.3-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="2.177"
-   y="62.992599"
+   x="2.1770"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use540"
+   style="fill:rgb(128,194,189)"
+   id="useaufs-modules-2.6.26-1.slh.3-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.2704282,2.2704282)"
-   id="g542"
+   transform="scale(2.27042820256303,2.27042820256303)"
+   id="gaufs-modules-2.6.25-14.slh.2-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="2.177"
-   y="62.992599"
+   x="2.1770"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use544"
+   style="fill:rgb(128,194,189)"
+   id="useaufs-modules-2.6.25-14.slh.2-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.2608076,2.2608076)"
-   id="g546"
+   transform="scale(2.26080762867611,2.26080762867611)"
+   id="gsfc-modules-2.6.25-14.slh.2-sidux-686"
    style="opacity:0.25">
 	<use
    x="70.5476"
-   y="62.992599"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use548"
+   style="fill:rgb(128,194,189)"
+   id="usesfc-modules-2.6.25-14.slh.2-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.2413169,2.2413169)"
-   id="g550"
+   transform="scale(2.24131693786598,2.24131693786598)"
+   id="gndiswrapper-modules-2.6.26-1.slh.3-sidux-686"
    style="opacity:0.25">
 	<use
-   x="50.905201"
-   y="62.992599"
+   x="50.9052"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use552"
+   style="fill:rgb(128,194,189)"
+   id="usendiswrapper-modules-2.6.26-1.slh.3-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.2413169,2.2413169)"
-   id="g554"
+   transform="scale(2.24131693786598,2.24131693786598)"
+   id="gcapi-isdnconf"
    style="opacity:0.25">
 	<use
-   x="7.8235002"
-   y="52.189701"
+   x="7.8235"
+   y="52.1897"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use556"
+   style="fill:rgb(0,128,192)"
+   id="usecapi-isdnconf"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.2314432,2.2314432)"
-   id="g558"
+   transform="scale(2.23144316694056,2.23144316694056)"
+   id="gndiswrapper-modules-2.6.25-14.slh.2-sidux-686"
    style="opacity:0.25">
 	<use
-   x="50.905201"
-   y="62.992599"
+   x="50.9052"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use560"
+   style="fill:rgb(128,194,189)"
+   id="usendiswrapper-modules-2.6.25-14.slh.2-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.2114291,2.2114291)"
-   id="g562"
+   transform="scale(2.2114291456225,2.2114291456225)"
+   id="gmodemlink"
    style="opacity:0.25">
 	<use
    x="48.1884"
-   y="62.991699"
+   y="62.9917"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use564"
+   style="fill:rgb(0,128,192)"
+   id="usemodemlink"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.2114291,2.2114291)"
-   id="g566"
+   transform="scale(2.2114291456225,2.2114291456225)"
+   id="gsidux-art-gnome-gaia"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="29.924299"
+   x="70.8749"
+   y="29.9243"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use568"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-art-gnome-gaia"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.1702767,2.1702767)"
-   id="g570"
+   transform="scale(2.17027669050881,2.17027669050881)"
+   id="ggprsconnect"
    style="opacity:0.25">
 	<use
-   x="25.006201"
-   y="46.432999"
+   x="25.0062"
+   y="46.4330"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use572"
+   style="fill:rgb(0,128,192)"
+   id="usegprsconnect"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.1597412,2.1597412)"
-   id="g574"
+   transform="scale(2.15974120085166,2.15974120085166)"
+   id="gconfigure-ndiswrapper"
    style="opacity:0.25">
 	<use
-   x="9.3296003"
-   y="64.932297"
+   x="9.3296"
+   y="64.9323"
    xlink:href="#swirl"
-   style="fill:#80f48b"
-   id="use576"
+   style="fill:rgb(128,244,139)"
+   id="useconfigure-ndiswrapper"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.1491019,2.1491019)"
-   id="g578"
+   transform="scale(2.14910190908897,2.14910190908897)"
+   id="gvdr-plugin-autotimeredit"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="71.130096"
+   x="82.0435"
+   y="71.1301"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use580"
+   style="fill:rgb(0,128,192)"
+   id="usevdr-plugin-autotimeredit"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.1491019,2.1491019)"
-   id="g582"
+   transform="scale(2.14910190908897,2.14910190908897)"
+   id="gstartsyslog"
    style="opacity:0.25">
 	<use
-   x="72.053902"
-   y="80.038498"
+   x="72.0539"
+   y="80.0385"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use584"
+   style="fill:rgb(0,128,192)"
+   id="usestartsyslog"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.1383562,2.1383562)"
-   id="g586"
+   transform="scale(2.13835621999722,2.13835621999722)"
+   id="gsidux-art-ksplash-erebos"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="29.9245"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use588"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-art-ksplash-erebos"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.1275014,2.1275014)"
-   id="g590"
+   transform="scale(2.1275014329533,2.1275014329533)"
+   id="gxserver-xorg-video-savage"
    style="opacity:0.25">
 	<use
-   x="91.402397"
+   x="91.4024"
    y="93.5774"
    xlink:href="#swirl"
-   style="fill:#80cdb2"
-   id="use592"
+   style="fill:rgb(128,205,178)"
+   id="usexserver-xorg-video-savage"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.0942538,2.0942538)"
-   id="g594"
+   transform="scale(2.09425376826093,2.09425376826093)"
+   id="gaufs-modules-2.6.26-1.slh.3-sidux-686"
    style="opacity:0.25">
 	<use
-   x="2.177"
-   y="62.992599"
+   x="2.1770"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use596"
+   style="fill:rgb(128,194,189)"
+   id="useaufs-modules-2.6.26-1.slh.3-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.0942538,2.0942538)"
-   id="g598"
+   transform="scale(2.09425376826093,2.09425376826093)"
+   id="gconfigure-cups"
    style="opacity:0.25">
 	<use
-   x="9.3296003"
+   x="9.3296"
    y="35.7034"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use600"
+   style="fill:rgb(0,128,192)"
+   id="useconfigure-cups"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.0829333,2.0829333)"
-   id="g602"
+   transform="scale(2.08293325650875,2.08293325650875)"
+   id="get131x-modules-2.6.26-1.slh.3-sidux-amd64"
    style="opacity:0.25">
 	<use
    x="17.5804"
-   y="62.992599"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use604"
+   style="fill:rgb(128,194,189)"
+   id="useet131x-modules-2.6.26-1.slh.3-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.0829333,2.0829333)"
-   id="g606"
+   transform="scale(2.08293325650875,2.08293325650875)"
+   id="gaufs-modules-2.6.25-14.slh.2-sidux-686"
    style="opacity:0.25">
 	<use
-   x="2.177"
-   y="62.992599"
+   x="2.1770"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use608"
+   style="fill:rgb(128,194,189)"
+   id="useaufs-modules-2.6.25-14.slh.2-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.0829333,2.0829333)"
-   id="g610"
+   transform="scale(2.08293325650875,2.08293325650875)"
+   id="glinux-support-2.6.26-1.slh.3"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="80.147697"
+   x="43.6827"
+   y="80.1477"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use612"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-support-2.6.26-1.slh.3"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.0714883,2.0714883)"
-   id="g614"
+   transform="scale(2.07148833730257,2.07148833730257)"
+   id="gxserver-xorg-video-savage"
    style="opacity:0.25">
 	<use
-   x="91.402397"
+   x="91.4024"
    y="93.5774"
    xlink:href="#swirl"
-   style="fill:#80cdb2"
-   id="use616"
+   style="fill:rgb(128,205,178)"
+   id="usexserver-xorg-video-savage"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.0714883,2.0714883)"
-   id="g618"
+   transform="scale(2.07148833730257,2.07148833730257)"
+   id="get131x-modules-2.6.25-14.slh.2-sidux-amd64"
    style="opacity:0.25">
 	<use
    x="17.5804"
-   y="62.992599"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use620"
+   style="fill:rgb(128,194,189)"
+   id="useet131x-modules-2.6.25-14.slh.2-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.0714883,2.0714883)"
-   id="g622"
+   transform="scale(2.07148833730257,2.07148833730257)"
+   id="gvirtualbox-ose-guest-modules-2.6.26-1.slh.3-sidux-686"
    style="opacity:0.25">
 	<use
-   x="82.583504"
+   x="82.5835"
    y="68.8582"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use624"
+   style="fill:rgb(128,194,189)"
+   id="usevirtualbox-ose-guest-modules-2.6.26-1.slh.3-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.0714883,2.0714883)"
-   id="g626"
+   transform="scale(2.07148833730257,2.07148833730257)"
+   id="glinux-support-2.6.25-14.slh.2"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="80.147697"
+   x="43.6827"
+   y="80.1477"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use628"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-support-2.6.25-14.slh.2"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.0714883,2.0714883)"
-   id="g630"
+   transform="scale(2.07148833730257,2.07148833730257)"
+   id="gsidux-irc"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="52.110199"
+   x="70.8749"
+   y="52.1102"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use632"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-irc"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.0599155,2.0599155)"
-   id="g634"
+   transform="scale(2.05991553528855,2.05991553528855)"
+   id="gvirtualbox-ose-guest-modules-2.6.25-14.slh.2-sidux-686"
    style="opacity:0.25">
 	<use
-   x="82.583504"
+   x="82.5835"
    y="68.8582"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use636"
+   style="fill:rgb(128,194,189)"
+   id="usevirtualbox-ose-guest-modules-2.6.25-14.slh.2-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.0243926,2.0243926)"
-   id="g638"
+   transform="scale(2.02439264791711,2.02439264791711)"
+   id="gvdr-plugin-autotimeredit"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="71.130096"
+   x="82.0435"
+   y="71.1301"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use640"
+   style="fill:rgb(0,128,192)"
+   id="usevdr-plugin-autotimeredit"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.0243926,2.0243926)"
-   id="g642"
+   transform="scale(2.02439264791711,2.02439264791711)"
+   id="gfll-live-xorgconfig"
    style="opacity:0.25">
 	<use
-   x="20.666201"
+   x="20.6662"
    y="59.7896"
    xlink:href="#swirl"
-   style="fill:#80b3cc"
-   id="use644"
+   style="fill:rgb(128,179,204)"
+   id="usefll-live-xorgconfig"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(2.0243926,2.0243926)"
-   id="g646"
+   transform="scale(2.02439264791711,2.02439264791711)"
+   id="gfll-live-xorgconfig"
    style="opacity:0.25">
 	<use
-   x="20.666201"
+   x="20.6662"
    y="59.7896"
    xlink:href="#swirl"
-   style="fill:#80b3cc"
-   id="use648"
+   style="fill:rgb(128,179,204)"
+   id="usefll-live-xorgconfig"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.9622551,1.9622551)"
-   id="g650"
+   transform="scale(1.96225510562778,1.96225510562778)"
+   id="gttf-sidux"
    style="opacity:0.25">
 	<use
-   x="75.958"
-   y="79.196404"
+   x="75.9580"
+   y="79.1964"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use652"
+   style="fill:rgb(0,128,192)"
+   id="usettf-sidux"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.9362619,1.9362619)"
-   id="g654"
+   transform="scale(1.9362619111879,1.9362619111879)"
+   id="gxresprobe"
    style="opacity:0.25">
 	<use
-   x="91.294403"
+   x="91.2944"
    y="93.7817"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use656"
+   style="fill:rgb(0,128,192)"
+   id="usexresprobe"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.9362619,1.9362619)"
-   id="g658"
+   transform="scale(1.9362619111879,1.9362619111879)"
+   id="gr5u870-modules-2.6.26-1.slh.3-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="65.630798"
-   y="62.992599"
+   x="65.6308"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use660"
+   style="fill:rgb(128,194,189)"
+   id="user5u870-modules-2.6.26-1.slh.3-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.9362619,1.9362619)"
-   id="g662"
+   transform="scale(1.9362619111879,1.9362619111879)"
+   id="gr5u870-modules-2.6.25-14.slh.2-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="65.630798"
-   y="62.992599"
+   x="65.6308"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use664"
+   style="fill:rgb(128,194,189)"
+   id="user5u870-modules-2.6.25-14.slh.2-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.9229994,1.9229994)"
-   id="g666"
+   transform="scale(1.92299942707654,1.92299942707654)"
+   id="gicedtea-gcjwebplugin"
    style="opacity:0.25">
 	<use
    x="31.3395"
-   y="45.412998"
+   y="45.4130"
    xlink:href="#swirl"
-   style="fill:#80ff80"
-   id="use668"
+   style="fill:rgb(128,255,128)"
+   id="useicedtea-gcjwebplugin"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.9229994,1.9229994)"
-   id="g670"
+   transform="scale(1.92299942707654,1.92299942707654)"
+   id="gfll-installer"
    style="opacity:0.25">
 	<use
-   x="20.666201"
-   y="51.836399"
+   x="20.6662"
+   y="51.8364"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use672"
+   style="fill:rgb(0,128,192)"
+   id="usefll-installer"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.9095514,1.9095514)"
-   id="g674"
-   style="opacity:0.25">
-	<use
-   x="17.5804"
-   y="62.992599"
-   xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use676"
-   width="1900"
-   height="1280" />
-</g>
-
-<g
-   transform="scale(1.9095514,1.9095514)"
-   id="g678"
-   style="opacity:0.25">
-	<use
-   x="82.043503"
-   y="71.130096"
-   xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use680"
-   width="1900"
-   height="1280" />
-</g>
-
-<g
-   transform="scale(1.8959113,1.8959113)"
-   id="g682"
+   transform="scale(1.90955143866081,1.90955143866081)"
+   id="get131x-modules-2.6.26-1.slh.3-sidux-686"
    style="opacity:0.25">
 	<use
    x="17.5804"
-   y="62.992599"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use684"
+   style="fill:rgb(128,194,189)"
+   id="useet131x-modules-2.6.26-1.slh.3-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.8959113,1.8959113)"
-   id="g686"
+   transform="scale(1.90955143866081,1.90955143866081)"
+   id="gvdr-plugin-undelete"
    style="opacity:0.25">
 	<use
-   x="40.102001"
-   y="57.215698"
+   x="82.0435"
+   y="71.1301"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use688"
+   style="fill:rgb(0,128,192)"
+   id="usevdr-plugin-undelete"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.8820721,1.8820721)"
-   id="g690"
+   transform="scale(1.89591131990104,1.89591131990104)"
+   id="get131x-modules-2.6.25-14.slh.2-sidux-686"
+   style="opacity:0.25">
+	<use
+   x="17.5804"
+   y="62.9926"
+   xlink:href="#swirl"
+   style="fill:rgb(128,194,189)"
+   id="useet131x-modules-2.6.25-14.slh.2-sidux-686"
+   width="1900"
+   height="1280" />
+</g>
+
+<g
+   transform="scale(1.89591131990104,1.89591131990104)"
+   id="gklik"
+   style="opacity:0.25">
+	<use
+   x="40.1020"
+   y="57.2157"
+   xlink:href="#swirl"
+   style="fill:rgb(0,128,192)"
+   id="useklik"
+   width="1900"
+   height="1280" />
+</g>
+
+<g
+   transform="scale(1.88207205776206,1.88207205776206)"
+   id="gdesktop-defaults-kde"
    style="opacity:0.25">
 	<use
    x="12.1537"
-   y="37.224201"
+   y="37.2242"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use692"
+   style="fill:rgb(0,128,192)"
+   id="usedesktop-defaults-kde"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.8820721,1.8820721)"
-   id="g694"
+   transform="scale(1.88207205776206,1.88207205776206)"
+   id="gtp-smapi-modules-2.6.26-1.slh.3-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="75.567596"
-   y="79.498299"
+   x="75.5676"
+   y="79.4983"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use696"
+   style="fill:rgb(128,194,189)"
+   id="usetp-smapi-modules-2.6.26-1.slh.3-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.8680262,1.8680262)"
-   id="g698"
+   transform="scale(1.86802622043692,1.86802622043692)"
+   id="gtp-smapi-modules-2.6.25-14.slh.2-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="75.567596"
-   y="79.498299"
+   x="75.5676"
+   y="79.4983"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use700"
+   style="fill:rgb(128,194,189)"
+   id="usetp-smapi-modules-2.6.25-14.slh.2-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.8680262,1.8680262)"
-   id="g702"
-   style="opacity:0.25">
-	<use
-   x="62.4865"
-   y="85.518799"
-   xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use704"
-   width="1900"
-   height="1280" />
-</g>
-
-<g
-   transform="scale(1.8680262,1.8680262)"
-   id="g706"
-   style="opacity:0.25">
-	<use
-   x="82.583504"
-   y="68.858498"
-   xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use708"
-   width="1900"
-   height="1280" />
-</g>
-
-<g
-   transform="scale(1.8680262,1.8680262)"
-   id="g710"
-   style="opacity:0.25">
-	<use
-   x="82.043503"
-   y="71.130096"
-   xlink:href="#swirl"
-   style="fill:#80ff80"
-   id="use712"
-   width="1900"
-   height="1280" />
-</g>
-
-<g
-   transform="scale(1.8537659,1.8537659)"
-   id="g714"
-   style="opacity:0.25">
-	<use
-   x="82.583504"
-   y="68.858498"
-   xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use716"
-   width="1900"
-   height="1280" />
-</g>
-
-<g
-   transform="scale(1.8537659,1.8537659)"
-   id="g718"
+   transform="scale(1.86802622043692,1.86802622043692)"
+   id="gqc-usb-modules-2.6.26-1.slh.3-sidux-amd64"
    style="opacity:0.25">
 	<use
    x="62.4865"
-   y="85.518799"
+   y="85.5188"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use720"
+   style="fill:rgb(128,194,189)"
+   id="useqc-usb-modules-2.6.26-1.slh.3-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.8537659,1.8537659)"
-   id="g722"
+   transform="scale(1.86802622043692,1.86802622043692)"
+   id="gvirtualbox-ose-modules-2.6.26-1.slh.3-sidux-686"
    style="opacity:0.25">
 	<use
-   x="20.666201"
-   y="59.789501"
+   x="82.5835"
+   y="68.8585"
    xlink:href="#swirl"
-   style="fill:#80b3cc"
-   id="use724"
+   style="fill:rgb(128,194,189)"
+   id="usevirtualbox-ose-modules-2.6.26-1.slh.3-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.8537659,1.8537659)"
-   id="g726"
+   transform="scale(1.86802622043692,1.86802622043692)"
+   id="gvdr-plugin-tvonscreen"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="82.0435"
+   y="71.1301"
+   xlink:href="#swirl"
+   style="fill:rgb(128,255,128)"
+   id="usevdr-plugin-tvonscreen"
+   width="1900"
+   height="1280" />
+</g>
+
+<g
+   transform="scale(1.85376592217374,1.85376592217374)"
+   id="gvirtualbox-ose-modules-2.6.25-14.slh.2-sidux-686"
+   style="opacity:0.25">
+	<use
+   x="82.5835"
+   y="68.8585"
+   xlink:href="#swirl"
+   style="fill:rgb(128,194,189)"
+   id="usevirtualbox-ose-modules-2.6.25-14.slh.2-sidux-686"
+   width="1900"
+   height="1280" />
+</g>
+
+<g
+   transform="scale(1.85376592217374,1.85376592217374)"
+   id="gqc-usb-modules-2.6.25-14.slh.2-sidux-amd64"
+   style="opacity:0.25">
+	<use
+   x="62.4865"
+   y="85.5188"
+   xlink:href="#swirl"
+   style="fill:rgb(128,194,189)"
+   id="useqc-usb-modules-2.6.25-14.slh.2-sidux-amd64"
+   width="1900"
+   height="1280" />
+</g>
+
+<g
+   transform="scale(1.85376592217374,1.85376592217374)"
+   id="gfll-live-initscripts"
+   style="opacity:0.25">
+	<use
+   x="20.6662"
+   y="59.7895"
+   xlink:href="#swirl"
+   style="fill:rgb(128,179,204)"
+   id="usefll-live-initscripts"
+   width="1900"
+   height="1280" />
+</g>
+
+<g
+   transform="scale(1.85376592217374,1.85376592217374)"
+   id="gsidux-art-kde-erebos"
+   style="opacity:0.25">
+	<use
+   x="70.8749"
    y="29.9245"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use728"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-art-kde-erebos"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.8392828,1.8392828)"
-   id="g730"
+   transform="scale(1.83928278425408,1.83928278425408)"
+   id="gr5u870-modules-2.6.26-1.slh.3-sidux-686"
    style="opacity:0.25">
 	<use
-   x="65.630798"
-   y="62.992599"
+   x="65.6308"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use732"
+   style="fill:rgb(128,194,189)"
+   id="user5u870-modules-2.6.26-1.slh.3-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.8245679,1.8245679)"
-   id="g734"
+   transform="scale(1.82456789159948,1.82456789159948)"
+   id="gr5u870-modules-2.6.25-14.slh.2-sidux-686"
    style="opacity:0.25">
 	<use
-   x="65.630798"
-   y="62.992599"
+   x="65.6308"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use736"
+   style="fill:rgb(128,194,189)"
+   id="user5u870-modules-2.6.25-14.slh.2-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.8096117,1.8096117)"
-   id="g738"
+   transform="scale(1.8096117443966,1.8096117443966)"
+   id="gomnibook-modules-2.6.26-1.slh.3-sidux-686"
    style="opacity:0.25">
 	<use
-   x="55.780399"
-   y="62.992599"
+   x="55.7804"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use740"
+   style="fill:rgb(128,194,189)"
+   id="useomnibook-modules-2.6.26-1.slh.3-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.8096117,1.8096117)"
-   id="g742"
+   transform="scale(1.8096117443966,1.8096117443966)"
+   id="gvdr-plugin-undelete"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="71.130096"
+   x="82.0435"
+   y="71.1301"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use744"
+   style="fill:rgb(0,128,192)"
+   id="usevdr-plugin-undelete"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.7944042,1.7944042)"
-   id="g746"
-   style="opacity:0.25">
-	<use
-   x="62.4865"
-   y="85.518799"
-   xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use748"
-   width="1900"
-   height="1280" />
-</g>
-
-<g
-   transform="scale(1.7944042,1.7944042)"
-   id="g750"
-   style="opacity:0.25">
-	<use
-   x="55.780399"
-   y="62.992599"
-   xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use752"
-   width="1900"
-   height="1280" />
-</g>
-
-<g
-   transform="scale(1.7944042,1.7944042)"
-   id="g754"
-   style="opacity:0.25">
-	<use
-   x="82.043503"
-   y="71.130096"
-   xlink:href="#swirl"
-   style="fill:#80ff80"
-   id="use756"
-   width="1900"
-   height="1280" />
-</g>
-
-<g
-   transform="scale(1.7789344,1.7789344)"
-   id="g758"
+   transform="scale(1.79440420402909,1.79440420402909)"
+   id="gqc-usb-modules-2.6.26-1.slh.3-sidux-686"
    style="opacity:0.25">
 	<use
    x="62.4865"
-   y="85.518799"
+   y="85.5188"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use760"
+   style="fill:rgb(128,194,189)"
+   id="useqc-usb-modules-2.6.26-1.slh.3-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.7471609,1.7471609)"
-   id="g762"
+   transform="scale(1.79440420402909,1.79440420402909)"
+   id="gomnibook-modules-2.6.25-14.slh.2-sidux-686"
    style="opacity:0.25">
 	<use
-   x="75.567596"
-   y="79.498299"
+   x="55.7804"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use764"
+   style="fill:rgb(128,194,189)"
+   id="useomnibook-modules-2.6.25-14.slh.2-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.7308314,1.7308314)"
-   id="g766"
+   transform="scale(1.79440420402909,1.79440420402909)"
+   id="gvdr-plugin-tvonscreen"
    style="opacity:0.25">
 	<use
-   x="75.567596"
-   y="79.498299"
+   x="82.0435"
+   y="71.1301"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use768"
+   style="fill:rgb(128,255,128)"
+   id="usevdr-plugin-tvonscreen"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.7308314,1.7308314)"
-   id="g770"
+   transform="scale(1.7789344324813,1.7789344324813)"
+   id="gqc-usb-modules-2.6.25-14.slh.2-sidux-686"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="46.798801"
+   x="62.4865"
+   y="85.5188"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use772"
+   style="fill:rgb(128,194,189)"
+   id="useqc-usb-modules-2.6.25-14.slh.2-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.7308314,1.7308314)"
-   id="g774"
+   transform="scale(1.7471609294726,1.7471609294726)"
+   id="gtp-smapi-modules-2.6.26-1.slh.3-sidux-686"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="46.798801"
+   x="75.5676"
+   y="79.4983"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use776"
+   style="fill:rgb(128,194,189)"
+   id="usetp-smapi-modules-2.6.26-1.slh.3-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.7308314,1.7308314)"
-   id="g778"
+   transform="scale(1.7308313672837,1.7308313672837)"
+   id="gtp-smapi-modules-2.6.25-14.slh.2-sidux-686"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="29.925301"
+   x="75.5676"
+   y="79.4983"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use780"
+   style="fill:rgb(128,194,189)"
+   id="usetp-smapi-modules-2.6.25-14.slh.2-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.7141877,1.7141877)"
-   id="g782"
+   transform="scale(1.7308313672837,1.7308313672837)"
+   id="gvdr-gui"
+   style="opacity:0.25">
+	<use
+   x="82.0435"
+   y="46.7988"
+   xlink:href="#swirl"
+   style="fill:rgb(0,128,192)"
+   id="usevdr-gui"
+   width="1900"
+   height="1280" />
+</g>
+
+<g
+   transform="scale(1.7308313672837,1.7308313672837)"
+   id="gvdr-gui"
+   style="opacity:0.25">
+	<use
+   x="82.0435"
+   y="46.7988"
+   xlink:href="#swirl"
+   style="fill:rgb(0,128,192)"
+   id="usevdr-gui"
+   width="1900"
+   height="1280" />
+</g>
+
+<g
+   transform="scale(1.7308313672837,1.7308313672837)"
+   id="gsidux-art-xsplash-erebos"
+   style="opacity:0.25">
+	<use
+   x="70.8749"
+   y="29.9253"
+   xlink:href="#swirl"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-art-xsplash-erebos"
+   width="1900"
+   height="1280" />
+</g>
+
+<g
+   transform="scale(1.71418772710549,1.71418772710549)"
+   id="gdesktop-defaults-xfce"
    style="opacity:0.25">
 	<use
    x="12.1537"
-   y="37.224201"
+   y="37.2242"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use784"
+   style="fill:rgb(0,128,192)"
+   id="usedesktop-defaults-xfce"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.7141877,1.7141877)"
-   id="g786"
+   transform="scale(1.71418772710549,1.71418772710549)"
+   id="gsidux-vdr-client-data"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="87.172798"
+   x="70.8749"
+   y="87.1728"
    xlink:href="#swirl"
-   style="fill:#80ef90"
-   id="use788"
+   style="fill:rgb(128,239,144)"
+   id="usesidux-vdr-client-data"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6972145,1.6972145)"
-   id="g790"
+   transform="scale(1.69721445655316,1.69721445655316)"
+   id="gsquashfs-modules-2.6.26-1.slh.3-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="71.788498"
-   y="62.992599"
+   x="71.7885"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use792"
+   style="fill:rgb(128,194,189)"
+   id="usesquashfs-modules-2.6.26-1.slh.3-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6972145,1.6972145)"
-   id="g794"
+   transform="scale(1.69721445655316,1.69721445655316)"
+   id="gomnibook-source"
    style="opacity:0.25">
 	<use
-   x="55.780399"
-   y="79.695602"
+   x="55.7804"
+   y="79.6956"
    xlink:href="#swirl"
-   style="fill:#80cdb2"
-   id="use796"
+   style="fill:rgb(128,205,178)"
+   id="useomnibook-source"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6798947,1.6798947)"
-   id="g798"
+   transform="scale(1.67989473319316,1.67989473319316)"
+   id="gsquashfs-modules-2.6.25-14.slh.2-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="71.788498"
-   y="62.992599"
+   x="71.7885"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use800"
+   style="fill:rgb(128,194,189)"
+   id="usesquashfs-modules-2.6.25-14.slh.2-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6798947,1.6798947)"
-   id="g802"
+   transform="scale(1.67989473319316,1.67989473319316)"
+   id="gvdr-plugin-premiereepg"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="71.130096"
+   x="82.0435"
+   y="71.1301"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use804"
+   style="fill:rgb(0,128,192)"
+   id="usevdr-plugin-premiereepg"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6798947,1.6798947)"
-   id="g806"
+   transform="scale(1.67989473319316,1.67989473319316)"
+   id="gsiduxcc-gtk2"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="46.725101"
+   x="70.8749"
+   y="46.7251"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use808"
+   style="fill:rgb(0,128,192)"
+   id="usesiduxcc-gtk2"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6798947,1.6798947)"
-   id="g810"
+   transform="scale(1.67989473319316,1.67989473319316)"
+   id="gapt-get-konsole"
    style="opacity:0.25">
 	<use
    x="1.6774"
    y="45.5881"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use812"
+   style="fill:rgb(0,128,192)"
+   id="useapt-get-konsole"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6798947,1.6798947)"
-   id="g814"
+   transform="scale(1.67989473319316,1.67989473319316)"
+   id="gksplash-theme-sidux-preview"
    style="opacity:0.25">
 	<use
-   x="40.879299"
-   y="81.898598"
+   x="40.8793"
+   y="81.8986"
    xlink:href="#swirl"
-   style="fill:#80f986"
-   id="use816"
+   style="fill:rgb(128,249,134)"
+   id="useksplash-theme-sidux-preview"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6622103,1.6622103)"
-   id="g818"
+   transform="scale(1.66221031741288,1.66221031741288)"
+   id="gatl1e-modules-2.6.25-14.slh.2-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="2.0847001"
-   y="62.992599"
+   x="2.0847"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use820"
+   style="fill:rgb(128,194,189)"
+   id="useatl1e-modules-2.6.25-14.slh.2-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6622103,1.6622103)"
-   id="g822"
+   transform="scale(1.66221031741288,1.66221031741288)"
+   id="gsquashfs-modules-2.6.26-1.slh.3-sidux-686"
    style="opacity:0.25">
 	<use
-   x="71.788498"
-   y="62.992599"
+   x="71.7885"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use824"
+   style="fill:rgb(128,194,189)"
+   id="usesquashfs-modules-2.6.26-1.slh.3-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6622103,1.6622103)"
-   id="g826"
+   transform="scale(1.66221031741288,1.66221031741288)"
+   id="glinux-headers-2.6-sidux-686"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="48.324699"
+   x="43.6827"
+   y="48.3247"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use828"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-headers-2.6-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6622103,1.6622103)"
-   id="g830"
+   transform="scale(1.66221031741288,1.66221031741288)"
+   id="glinux-headers-2.6.26-1.slh.3-all-i386"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="48.324699"
+   x="43.6827"
+   y="48.3247"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use832"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-headers-2.6.26-1.slh.3-all-i386"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6622103,1.6622103)"
-   id="g834"
+   transform="scale(1.66221031741288,1.66221031741288)"
+   id="glinux-image-2.6-sidux-686"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="51.719898"
+   x="43.6827"
+   y="51.7199"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use836"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-image-2.6-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6622103,1.6622103)"
-   id="g838"
+   transform="scale(1.66221031741288,1.66221031741288)"
+   id="glinux-headers-2.6.26-1.slh.3-all-amd64"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="48.324699"
+   x="43.6827"
+   y="48.3247"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use840"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-headers-2.6.26-1.slh.3-all-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6622103,1.6622103)"
-   id="g842"
+   transform="scale(1.66221031741288,1.66221031741288)"
+   id="glinux-headers-2.6.26-1.slh.3-all"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="48.324699"
+   x="43.6827"
+   y="48.3247"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use844"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-headers-2.6.26-1.slh.3-all"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6622103,1.6622103)"
-   id="g846"
+   transform="scale(1.66221031741288,1.66221031741288)"
+   id="glinux-headers-2.6.26-1.slh.3-all"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="48.324699"
+   x="43.6827"
+   y="48.3247"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use848"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-headers-2.6.26-1.slh.3-all"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6622103,1.6622103)"
-   id="g850"
+   transform="scale(1.66221031741288,1.66221031741288)"
+   id="glinux-headers-2.6-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="48.324699"
+   x="43.6827"
+   y="48.3247"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use852"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-headers-2.6-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6622103,1.6622103)"
-   id="g854"
+   transform="scale(1.66221031741288,1.66221031741288)"
+   id="glinux-support-sidux-2.6"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="80.147697"
+   x="43.6827"
+   y="80.1477"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use856"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-support-sidux-2.6"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6622103,1.6622103)"
-   id="g858"
+   transform="scale(1.66221031741288,1.66221031741288)"
+   id="glinux-image-2.6-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="51.719898"
+   x="43.6827"
+   y="51.7199"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use860"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-image-2.6-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6622103,1.6622103)"
-   id="g862"
+   transform="scale(1.66221031741288,1.66221031741288)"
+   id="glinux-tree-sidux-2.6.26"
    style="opacity:0.25">
 	<use
-   x="43.682701"
+   x="43.6827"
    y="82.6698"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use864"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-tree-sidux-2.6.26"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6622103,1.6622103)"
-   id="g866"
+   transform="scale(1.66221031741288,1.66221031741288)"
+   id="gfll-live-utils"
    style="opacity:0.25">
 	<use
-   x="20.666201"
+   x="20.6662"
    y="59.7896"
    xlink:href="#swirl"
-   style="fill:#80b3cc"
-   id="use868"
+   style="fill:rgb(128,179,204)"
+   id="usefll-live-utils"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6441414,1.6441414)"
-   id="g870"
+   transform="scale(1.64414138288698,1.64414138288698)"
+   id="gatl2-modules-2.6.26-1.slh.3-sidux-amd64"
    style="opacity:0.25">
 	<use
    x="2.0848"
-   y="62.992599"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use872"
+   style="fill:rgb(128,194,189)"
+   id="useatl2-modules-2.6.26-1.slh.3-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6441414,1.6441414)"
-   id="g874"
+   transform="scale(1.64414138288698,1.64414138288698)"
+   id="gsquashfs-modules-2.6.25-14.slh.2-sidux-686"
    style="opacity:0.25">
 	<use
-   x="71.788498"
-   y="62.992599"
+   x="71.7885"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use876"
+   style="fill:rgb(128,194,189)"
+   id="usesquashfs-modules-2.6.25-14.slh.2-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6441414,1.6441414)"
-   id="g878"
+   transform="scale(1.64414138288698,1.64414138288698)"
+   id="glinux-headers-2.6.25-14.slh.2-all-i386"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="48.324699"
+   x="43.6827"
+   y="48.3247"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use880"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-headers-2.6.25-14.slh.2-all-i386"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6441414,1.6441414)"
-   id="g882"
+   transform="scale(1.64414138288698,1.64414138288698)"
+   id="glinux-headers-2.6.25-14.slh.2-all"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="48.324699"
+   x="43.6827"
+   y="48.3247"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use884"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-headers-2.6.25-14.slh.2-all"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6441414,1.6441414)"
-   id="g886"
+   transform="scale(1.64414138288698,1.64414138288698)"
+   id="glinux-headers-2.6.25-14.slh.2-all"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="48.324699"
+   x="43.6827"
+   y="48.3247"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use888"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-headers-2.6.25-14.slh.2-all"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6441414,1.6441414)"
-   id="g890"
+   transform="scale(1.64414138288698,1.64414138288698)"
+   id="glinux-tree-sidux-2.6.25"
    style="opacity:0.25">
 	<use
-   x="43.682701"
+   x="43.6827"
    y="82.6698"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use892"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-tree-sidux-2.6.25"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6441414,1.6441414)"
-   id="g894"
+   transform="scale(1.64414138288698,1.64414138288698)"
+   id="glinux-headers-2.6.25-14.slh.2-all-amd64"
    style="opacity:0.25">
 	<use
-   x="43.682701"
-   y="48.324699"
+   x="43.6827"
+   y="48.3247"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use896"
+   style="fill:rgb(128,194,189)"
+   id="uselinux-headers-2.6.25-14.slh.2-all-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6441414,1.6441414)"
-   id="g898"
+   transform="scale(1.64414138288698,1.64414138288698)"
+   id="gfll-live-utils"
    style="opacity:0.25">
 	<use
-   x="20.666201"
+   x="20.6662"
    y="59.7896"
    xlink:href="#swirl"
-   style="fill:#80b3cc"
-   id="use900"
+   style="fill:rgb(128,179,204)"
+   id="usefll-live-utils"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6256663,1.6256663)"
-   id="g902"
+   transform="scale(1.62566632035777,1.62566632035777)"
+   id="gatl2-modules-2.6.25-14.slh.2-sidux-amd64"
    style="opacity:0.25">
 	<use
    x="2.0848"
-   y="62.992599"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use904"
+   style="fill:rgb(128,194,189)"
+   id="useatl2-modules-2.6.25-14.slh.2-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6256663,1.6256663)"
-   id="g906"
+   transform="scale(1.62566632035777,1.62566632035777)"
+   id="ggdm-themes-sidux"
    style="opacity:0.25">
 	<use
-   x="23.693899"
-   y="81.898598"
+   x="23.6939"
+   y="81.8986"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use908"
+   style="fill:rgb(0,128,192)"
+   id="usegdm-themes-sidux"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6067615,1.6067615)"
-   id="g910"
+   transform="scale(1.60676150945015,1.60676150945015)"
+   id="gdesktop-defaults-common"
    style="opacity:0.25">
 	<use
    x="12.1537"
-   y="37.224201"
+   y="37.2242"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use912"
+   style="fill:rgb(0,128,192)"
+   id="usedesktop-defaults-common"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6067615,1.6067615)"
-   id="g914"
+   transform="scale(1.60676150945015,1.60676150945015)"
+   id="gvdr-plugin-premiereepg"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="71.130096"
+   x="82.0435"
+   y="71.1301"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use916"
+   style="fill:rgb(0,128,192)"
+   id="usevdr-plugin-premiereepg"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.6067615,1.6067615)"
-   id="g918"
+   transform="scale(1.60676150945015,1.60676150945015)"
+   id="gapt-get-konsole"
    style="opacity:0.25">
 	<use
    x="1.6774"
    y="45.5881"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use920"
+   style="fill:rgb(0,128,192)"
+   id="useapt-get-konsole"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.5874011,1.5874011)"
-   id="g922"
+   transform="scale(1.5874010519682,1.5874010519682)"
+   id="gr5u870-source"
    style="opacity:0.25">
 	<use
-   x="65.630798"
-   y="79.695602"
+   x="65.6308"
+   y="79.6956"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use924"
+   style="fill:rgb(0,128,192)"
+   id="user5u870-source"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.5874011,1.5874011)"
-   id="g926"
+   transform="scale(1.5874010519682,1.5874010519682)"
+   id="ginfobash"
    style="opacity:0.25">
 	<use
-   x="32.531601"
+   x="32.5316"
    y="51.8083"
    xlink:href="#swirl"
-   style="fill:#80b9c6"
-   id="use928"
+   style="fill:rgb(128,185,198)"
+   id="useinfobash"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.5874011,1.5874011)"
-   id="g930"
+   transform="scale(1.5874010519682,1.5874010519682)"
+   id="gacerhk-modules-2.6.26-1.slh.3-sidux-686"
    style="opacity:0.25">
 	<use
    x="0.2295"
-   y="62.992599"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use932"
+   style="fill:rgb(128,194,189)"
+   id="useacerhk-modules-2.6.26-1.slh.3-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.5874011,1.5874011)"
-   id="g934"
+   transform="scale(1.5874010519682,1.5874010519682)"
+   id="gatl2-modules-2.6.26-1.slh.3-sidux-686"
    style="opacity:0.25">
 	<use
    x="2.0848"
-   y="62.992599"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use936"
+   style="fill:rgb(128,194,189)"
+   id="useatl2-modules-2.6.26-1.slh.3-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.5874011,1.5874011)"
-   id="g938"
+   transform="scale(1.5874010519682,1.5874010519682)"
+   id="gatl1e-modules-2.6.25-14.slh.2-sidux-686"
    style="opacity:0.25">
 	<use
-   x="2.0847001"
-   y="62.992599"
+   x="2.0847"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use940"
+   style="fill:rgb(128,194,189)"
+   id="useatl1e-modules-2.6.25-14.slh.2-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.5675565,1.5675565)"
-   id="g942"
+   transform="scale(1.5675564584805,1.5675564584805)"
+   id="gb43-fwcutter"
    style="opacity:0.25">
 	<use
    x="3.2198"
-   y="44.163399"
+   y="44.1634"
    xlink:href="#swirl"
-   style="fill:#8066ff"
-   id="use944"
+   style="fill:rgb(128,102,281)"
+   id="useb43-fwcutter"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.5675565,1.5675565)"
-   id="g946"
+   transform="scale(1.5675564584805,1.5675564584805)"
+   id="gpython-volumeid"
    style="opacity:0.25">
 	<use
-   x="60.983601"
-   y="88.009804"
+   x="60.9836"
+   y="88.0098"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use948"
+   style="fill:rgb(0,128,192)"
+   id="usepython-volumeid"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.5675565,1.5675565)"
-   id="g950"
+   transform="scale(1.5675564584805,1.5675564584805)"
+   id="gpython-volumeid"
    style="opacity:0.25">
 	<use
-   x="60.983601"
-   y="88.009804"
+   x="60.9836"
+   y="88.0098"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use952"
+   style="fill:rgb(0,128,192)"
+   id="usepython-volumeid"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.5675565,1.5675565)"
-   id="g954"
+   transform="scale(1.5675564584805,1.5675564584805)"
+   id="gacerhk-modules-2.6.25-14.slh.2-sidux-686"
    style="opacity:0.25">
 	<use
    x="0.2295"
-   y="62.992599"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use956"
+   style="fill:rgb(128,194,189)"
+   id="useacerhk-modules-2.6.25-14.slh.2-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.5675565,1.5675565)"
-   id="g958"
+   transform="scale(1.5675564584805,1.5675564584805)"
+   id="gvdr-plugin-nordlichtsepg"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="71.130096"
+   x="82.0435"
+   y="71.1301"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use960"
+   style="fill:rgb(0,128,192)"
+   id="usevdr-plugin-nordlichtsepg"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.5675565,1.5675565)"
-   id="g962"
+   transform="scale(1.5675564584805,1.5675564584805)"
+   id="gsidux-scripts"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="78.762703"
+   x="70.8749"
+   y="78.7627"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use964"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-scripts"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.5471963,1.5471963)"
-   id="g966"
+   transform="scale(1.54719627787093,1.54719627787093)"
+   id="gatl2-modules-2.6.25-14.slh.2-sidux-686"
    style="opacity:0.25">
 	<use
    x="2.0848"
-   y="62.992599"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use968"
+   style="fill:rgb(128,194,189)"
+   id="useatl2-modules-2.6.25-14.slh.2-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.5471963,1.5471963)"
-   id="g970"
+   transform="scale(1.54719627787093,1.54719627787093)"
+   id="gvdr-plugin-timeline"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="71.130096"
+   x="82.0435"
+   y="71.1301"
    xlink:href="#swirl"
-   style="fill:#80ff80"
-   id="use972"
+   style="fill:rgb(128,255,128)"
+   id="usevdr-plugin-timeline"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.5471963,1.5471963)"
-   id="g974"
+   transform="scale(1.54719627787093,1.54719627787093)"
+   id="gfll-live-initramfs"
    style="opacity:0.25">
 	<use
-   x="20.666201"
-   y="59.789501"
+   x="20.6662"
+   y="59.7895"
    xlink:href="#swirl"
-   style="fill:#80d0af"
-   id="use976"
+   style="fill:rgb(128,208,175)"
+   id="usefll-live-initramfs"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.5262857,1.5262857)"
-   id="g978"
+   transform="scale(1.52628565673778,1.52628565673778)"
+   id="gb43-fwcutter"
    style="opacity:0.25">
 	<use
    x="3.2198"
-   y="44.163399"
+   y="44.1634"
    xlink:href="#swirl"
-   style="fill:#8066ff"
-   id="use980"
+   style="fill:rgb(128,102,281)"
+   id="useb43-fwcutter"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.5262857,1.5262857)"
-   id="g982"
+   transform="scale(1.52628565673778,1.52628565673778)"
+   id="gxresprobe"
    style="opacity:0.25">
 	<use
-   x="91.294403"
+   x="91.2944"
    y="93.7817"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use984"
+   style="fill:rgb(0,128,192)"
+   id="usexresprobe"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.5262857,1.5262857)"
-   id="g986"
+   transform="scale(1.52628565673778,1.52628565673778)"
+   id="gvdr-plugin-nordlichtsepg"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="71.130096"
+   x="82.0435"
+   y="71.1301"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use988"
+   style="fill:rgb(0,128,192)"
+   id="usevdr-plugin-nordlichtsepg"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.5262857,1.5262857)"
-   id="g990"
+   transform="scale(1.52628565673778,1.52628565673778)"
+   id="gvdr-plugin-newsticker"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="71.130096"
+   x="82.0435"
+   y="71.1301"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use992"
+   style="fill:rgb(0,128,192)"
+   id="usevdr-plugin-newsticker"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.5047858,1.5047858)"
-   id="g994"
+   transform="scale(1.50478581182467,1.50478581182467)"
+   id="gsidux-binary-gfx"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="31.9944"
    xlink:href="#swirl"
-   style="fill:#80ff80"
-   id="use996"
+   style="fill:rgb(128,255,128)"
+   id="usesidux-binary-gfx"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.5047858,1.5047858)"
-   id="g998"
+   transform="scale(1.50478581182467,1.50478581182467)"
+   id="gvdr-plugin-timeline"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="71.130096"
+   x="82.0435"
+   y="71.1301"
    xlink:href="#swirl"
-   style="fill:#80ff80"
-   id="use1000"
+   style="fill:rgb(128,255,128)"
+   id="usevdr-plugin-timeline"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.5047858,1.5047858)"
-   id="g1002"
+   transform="scale(1.50478581182467,1.50478581182467)"
+   id="gvdr-plugin-director"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="71.130096"
+   x="82.0435"
+   y="71.1301"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use1004"
+   style="fill:rgb(0,128,192)"
+   id="usevdr-plugin-director"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.4826534,1.4826534)"
-   id="g1006"
-   style="opacity:0.25">
-	<use
-   x="66.7071"
-   y="62.992599"
-   xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1008"
-   width="1900"
-   height="1280" />
-</g>
-
-<g
-   transform="scale(1.4826534,1.4826534)"
-   id="g1010"
+   transform="scale(1.48265339371288,1.48265339371288)"
+   id="grfswitch-modules-2.6.26-1.slh.3-sidux-amd64"
    style="opacity:0.25">
 	<use
    x="66.7071"
-   y="62.992599"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1012"
+   style="fill:rgb(128,194,189)"
+   id="userfswitch-modules-2.6.26-1.slh.3-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.4826534,1.4826534)"
-   id="g1014"
+   transform="scale(1.48265339371288,1.48265339371288)"
+   id="grfswitch-modules-2.6.26-1.slh.3-sidux-686"
    style="opacity:0.25">
 	<use
-   x="82.043503"
-   y="71.130096"
+   x="66.7071"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use1016"
+   style="fill:rgb(128,194,189)"
+   id="userfswitch-modules-2.6.26-1.slh.3-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.4598397,1.4598397)"
-   id="g1018"
+   transform="scale(1.48265339371288,1.48265339371288)"
+   id="gvdr-plugin-newsticker"
+   style="opacity:0.25">
+	<use
+   x="82.0435"
+   y="71.1301"
+   xlink:href="#swirl"
+   style="fill:rgb(0,128,192)"
+   id="usevdr-plugin-newsticker"
+   width="1900"
+   height="1280" />
+</g>
+
+<g
+   transform="scale(1.45983971329596,1.45983971329596)"
+   id="gudev-config-sidux"
    style="opacity:0.25">
 	<use
    x="78.1157"
-   y="35.235401"
+   y="35.2354"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use1020"
+   style="fill:rgb(0,128,192)"
+   id="useudev-config-sidux"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.4598397,1.4598397)"
-   id="g1022"
+   transform="scale(1.45983971329596,1.45983971329596)"
+   id="gatl1e-source"
    style="opacity:0.25">
 	<use
-   x="2.0847001"
-   y="79.695602"
+   x="2.0847"
+   y="79.6956"
    xlink:href="#swirl"
-   style="fill:#80ff80"
-   id="use1024"
+   style="fill:rgb(128,255,128)"
+   id="useatl1e-source"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.4598397,1.4598397)"
-   id="g1026"
-   style="opacity:0.25">
-	<use
-   x="66.7071"
-   y="62.992599"
-   xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1028"
-   width="1900"
-   height="1280" />
-</g>
-
-<g
-   transform="scale(1.4598397,1.4598397)"
-   id="g1030"
-   style="opacity:0.25">
-	<use
-   x="21.3899"
-   y="62.992599"
-   xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1032"
-   width="1900"
-   height="1280" />
-</g>
-
-<g
-   transform="scale(1.4598397,1.4598397)"
-   id="g1034"
+   transform="scale(1.45983971329596,1.45983971329596)"
+   id="grfswitch-modules-2.6.25-14.slh.2-sidux-amd64"
    style="opacity:0.25">
 	<use
    x="66.7071"
-   y="62.992599"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1036"
+   style="fill:rgb(128,194,189)"
+   id="userfswitch-modules-2.6.25-14.slh.2-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.4598397,1.4598397)"
-   id="g1038"
-   style="opacity:0.25">
-	<use
-   x="82.043503"
-   y="71.130096"
-   xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use1040"
-   width="1900"
-   height="1280" />
-</g>
-
-<g
-   transform="scale(1.4362898,1.4362898)"
-   id="g1042"
+   transform="scale(1.45983971329596,1.45983971329596)"
+   id="gfsam7400-modules-2.6.26-1.slh.3-sidux-amd64"
    style="opacity:0.25">
 	<use
    x="21.3899"
-   y="62.992599"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1044"
+   style="fill:rgb(128,194,189)"
+   id="usefsam7400-modules-2.6.26-1.slh.3-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.4362898,1.4362898)"
-   id="g1046"
+   transform="scale(1.45983971329596,1.45983971329596)"
+   id="grfswitch-modules-2.6.25-14.slh.2-sidux-686"
+   style="opacity:0.25">
+	<use
+   x="66.7071"
+   y="62.9926"
+   xlink:href="#swirl"
+   style="fill:rgb(128,194,189)"
+   id="userfswitch-modules-2.6.25-14.slh.2-sidux-686"
+   width="1900"
+   height="1280" />
+</g>
+
+<g
+   transform="scale(1.45983971329596,1.45983971329596)"
+   id="gvdr-plugin-director"
+   style="opacity:0.25">
+	<use
+   x="82.0435"
+   y="71.1301"
+   xlink:href="#swirl"
+   style="fill:rgb(0,128,192)"
+   id="usevdr-plugin-director"
+   width="1900"
+   height="1280" />
+</g>
+
+<g
+   transform="scale(1.43628979335459,1.43628979335459)"
+   id="gfsam7400-modules-2.6.25-14.slh.2-sidux-amd64"
+   style="opacity:0.25">
+	<use
+   x="21.3899"
+   y="62.9926"
+   xlink:href="#swirl"
+   style="fill:rgb(128,194,189)"
+   id="usefsam7400-modules-2.6.25-14.slh.2-sidux-amd64"
+   width="1900"
+   height="1280" />
+</g>
+
+<g
+   transform="scale(1.43628979335459,1.43628979335459)"
+   id="geeepc-acpi-modules-2.6.25-14.slh.2-sidux-amd64"
    style="opacity:0.25">
 	<use
    x="16.0009"
    y="28.7584"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1048"
+   style="fill:rgb(128,194,189)"
+   id="useeeepc-acpi-modules-2.6.25-14.slh.2-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.4362898,1.4362898)"
-   id="g1050"
+   transform="scale(1.43628979335459,1.43628979335459)"
+   id="gfsam7400-modules-2.6.26-1.slh.3-sidux-686"
    style="opacity:0.25">
 	<use
    x="21.3899"
-   y="62.992599"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1052"
+   style="fill:rgb(128,194,189)"
+   id="usefsam7400-modules-2.6.26-1.slh.3-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.4362898,1.4362898)"
-   id="g1054"
+   transform="scale(1.43628979335459,1.43628979335459)"
+   id="gdistro-defaults"
    style="opacity:0.25">
 	<use
    x="12.5865"
-   y="37.224201"
+   y="37.2242"
    xlink:href="#swirl"
-   style="fill:#80b3cc"
-   id="use1056"
+   style="fill:rgb(128,179,204)"
+   id="usedistro-defaults"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.4362898,1.4362898)"
-   id="g1058"
+   transform="scale(1.43628979335459,1.43628979335459)"
+   id="gseminarix-handbook-common"
    style="opacity:0.25">
 	<use
-   x="70.468803"
+   x="70.4688"
    y="48.0439"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use1060"
+   style="fill:rgb(0,128,192)"
+   id="useseminarix-handbook-common"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.4119412,1.4119412)"
-   id="g1062"
+   transform="scale(1.41194119475163,1.41194119475163)"
+   id="geeepc-acpi-modules-2.6.25-14.slh.2-sidux-686"
    style="opacity:0.25">
 	<use
    x="16.0009"
    y="28.7584"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1064"
+   style="fill:rgb(128,194,189)"
+   id="useeeepc-acpi-modules-2.6.25-14.slh.2-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.4119412,1.4119412)"
-   id="g1066"
+   transform="scale(1.41194119475163,1.41194119475163)"
+   id="gfsam7400-modules-2.6.25-14.slh.2-sidux-686"
    style="opacity:0.25">
 	<use
    x="21.3899"
-   y="62.992599"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1068"
+   style="fill:rgb(128,194,189)"
+   id="usefsam7400-modules-2.6.25-14.slh.2-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.4119412,1.4119412)"
-   id="g1070"
+   transform="scale(1.41194119475163,1.41194119475163)"
+   id="gfusecram"
    style="opacity:0.25">
 	<use
    x="21.6593"
-   y="44.042301"
+   y="44.0423"
    xlink:href="#swirl"
-   style="fill:#ffffff"
-   id="use1072"
+   style="fill:rgb(255,255,255)"
+   id="usefusecram"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.4119412,1.4119412)"
-   id="g1074"
+   transform="scale(1.41194119475163,1.41194119475163)"
+   id="gfusecram"
    style="opacity:0.25">
 	<use
    x="21.6593"
-   y="44.042301"
+   y="44.0423"
    xlink:href="#swirl"
-   style="fill:#ffffff"
-   id="use1076"
+   style="fill:rgb(255,255,255)"
+   id="usefusecram"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.3867225,1.3867225)"
-   id="g1078"
+   transform="scale(1.38672254870127,1.38672254870127)"
+   id="gvirtualbox-ose-modules-2.6-sidux-686"
    style="opacity:0.25">
 	<use
-   x="82.583504"
-   y="68.858498"
+   x="82.5835"
+   y="68.8585"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1080"
+   style="fill:rgb(128,194,189)"
+   id="usevirtualbox-ose-modules-2.6-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.3867225,1.3867225)"
-   id="g1082"
+   transform="scale(1.38672254870127,1.38672254870127)"
+   id="gvirtualbox-ose-guest-modules-2.6-sidux-686"
    style="opacity:0.25">
 	<use
-   x="82.583504"
+   x="82.5835"
    y="68.8582"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1084"
+   style="fill:rgb(128,194,189)"
+   id="usevirtualbox-ose-guest-modules-2.6-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.3867225,1.3867225)"
-   id="g1086"
+   transform="scale(1.38672254870127,1.38672254870127)"
+   id="gvirtualbox-ose-modules-2.6-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="82.583504"
-   y="68.858498"
+   x="82.5835"
+   y="68.8585"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1088"
+   style="fill:rgb(128,194,189)"
+   id="usevirtualbox-ose-modules-2.6-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.3867225,1.3867225)"
-   id="g1090"
+   transform="scale(1.38672254870127,1.38672254870127)"
+   id="gppp-scripts"
    style="opacity:0.25">
 	<use
-   x="60"
-   y="78.762703"
+   x="60.0000"
+   y="78.7627"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use1092"
+   style="fill:rgb(0,128,192)"
+   id="useppp-scripts"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.3867225,1.3867225)"
-   id="g1094"
+   transform="scale(1.38672254870127,1.38672254870127)"
+   id="gfll-iso2usb"
    style="opacity:0.25">
 	<use
-   x="20.666201"
-   y="52.212101"
+   x="20.6662"
+   y="52.2121"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use1096"
+   style="fill:rgb(0,128,192)"
+   id="usefll-iso2usb"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.3605517,1.3605517)"
-   id="g1098"
+   transform="scale(1.36055170063912,1.36055170063912)"
+   id="gsidux-modules"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="62.992599"
+   x="70.8749"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1100"
+   style="fill:rgb(128,194,189)"
+   id="usesidux-modules"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.3605517,1.3605517)"
-   id="g1102"
+   transform="scale(1.36055170063912,1.36055170063912)"
+   id="gsidux-modules"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="62.992599"
+   x="70.8749"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1104"
+   style="fill:rgb(128,194,189)"
+   id="usesidux-modules"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.3333333,1.3333333)"
-   id="g1106"
+   transform="scale(1.33333333333333,1.33333333333333)"
+   id="grfswitch-source"
    style="opacity:0.25">
 	<use
    x="66.7071"
-   y="79.695602"
+   y="79.6956"
    xlink:href="#swirl"
-   style="fill:#80ef90"
-   id="use1108"
+   style="fill:rgb(128,239,144)"
+   id="userfswitch-source"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.3333333,1.3333333)"
-   id="g1110"
+   transform="scale(1.33333333333333,1.33333333333333)"
+   id="gsidux-manual"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="61.9338"
    xlink:href="#swirl"
-   style="fill:#80dca3"
-   id="use1112"
+   style="fill:rgb(128,220,163)"
+   id="usesidux-manual"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.3333333,1.3333333)"
-   id="g1114"
+   transform="scale(1.33333333333333,1.33333333333333)"
+   id="gsidux-searchplugins"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="78.881104"
+   x="70.8749"
+   y="78.8811"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use1116"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-searchplugins"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.3049559,1.3049559)"
-   id="g1118"
+   transform="scale(1.30495588038962,1.30495588038962)"
+   id="gfsam7400-source"
    style="opacity:0.25">
 	<use
    x="21.3899"
-   y="79.695602"
+   y="79.6956"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use1120"
+   style="fill:rgb(0,128,192)"
+   id="usefsam7400-source"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.2441704,1.2441704)"
-   id="g1122"
+   transform="scale(1.24417038560575,1.24417038560575)"
+   id="gapt-conf-sidux"
    style="opacity:0.25">
 	<use
    x="1.6774"
-   y="35.235401"
+   y="35.2354"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use1124"
+   style="fill:rgb(0,128,192)"
+   id="useapt-conf-sidux"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.2441704,1.2441704)"
-   id="g1126"
+   transform="scale(1.24417038560575,1.24417038560575)"
+   id="gsidux-keyring"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="56.7103"
    xlink:href="#swirl"
-   style="fill:#ffffff"
-   id="use1128"
+   style="fill:rgb(255,255,255)"
+   id="usesidux-keyring"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.2441704,1.2441704)"
-   id="g1130"
+   transform="scale(1.24417038560575,1.24417038560575)"
+   id="gsidux-archive-keyring"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="29.887899"
+   x="70.8749"
+   y="29.8879"
    xlink:href="#swirl"
-   style="fill:#ffffff"
-   id="use1132"
+   style="fill:rgb(255,255,255)"
+   id="usesidux-archive-keyring"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.2114137,1.2114137)"
-   id="g1134"
+   transform="scale(1.21141372855476,1.21141372855476)"
+   id="gkdeservicemenus-sidux"
    style="opacity:0.25">
 	<use
-   x="39.226501"
-   y="79.196404"
+   x="39.2265"
+   y="79.1964"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use1136"
+   style="fill:rgb(0,128,192)"
+   id="usekdeservicemenus-sidux"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1138"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gtp-smapi-modules-2.6-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="75.567596"
-   y="79.498299"
+   x="75.5676"
+   y="79.4983"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1140"
+   style="fill:rgb(128,194,189)"
+   id="usetp-smapi-modules-2.6-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1142"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="ggspca-modules-2.6-sidux-686"
    style="opacity:0.25">
 	<use
-   x="25.323"
-   y="62.992599"
+   x="25.3230"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1144"
+   style="fill:rgb(128,194,189)"
+   id="usegspca-modules-2.6-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1146"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gr5u870-modules-2.6-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="65.630798"
-   y="62.992599"
+   x="65.6308"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1148"
+   style="fill:rgb(128,194,189)"
+   id="user5u870-modules-2.6-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1150"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gaufs-modules-2.6-sidux-686"
    style="opacity:0.25">
 	<use
-   x="2.177"
-   y="62.992599"
+   x="2.1770"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1152"
+   style="fill:rgb(128,194,189)"
+   id="useaufs-modules-2.6-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1154"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="glirc-modules-modules-2.6-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="43.693199"
-   y="62.992599"
+   x="43.6932"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1156"
+   style="fill:rgb(128,194,189)"
+   id="uselirc-modules-modules-2.6-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1158"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gqc-usb-modules-2.6-sidux-686"
    style="opacity:0.25">
 	<use
    x="62.4865"
-   y="85.518799"
+   y="85.5188"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1160"
+   style="fill:rgb(128,194,189)"
+   id="useqc-usb-modules-2.6-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1162"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="glirc-modules-modules-2.6-sidux-686"
    style="opacity:0.25">
 	<use
-   x="43.693199"
-   y="62.992599"
+   x="43.6932"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1164"
+   style="fill:rgb(128,194,189)"
+   id="uselirc-modules-modules-2.6-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1166"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gsquashfs-modules-2.6-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="71.788498"
-   y="62.992599"
+   x="71.7885"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1168"
+   style="fill:rgb(128,194,189)"
+   id="usesquashfs-modules-2.6-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1170"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="get131x-modules-2.6-sidux-amd64"
    style="opacity:0.25">
 	<use
    x="17.5804"
-   y="62.992599"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1172"
+   style="fill:rgb(128,194,189)"
+   id="useet131x-modules-2.6-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1174"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gaufs-modules-2.6-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="2.177"
-   y="62.992599"
+   x="2.1770"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1176"
+   style="fill:rgb(128,194,189)"
+   id="useaufs-modules-2.6-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1178"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gbtrfs-modules-2.6-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="5.9928002"
-   y="62.992599"
+   x="5.9928"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1180"
+   style="fill:rgb(128,194,189)"
+   id="usebtrfs-modules-2.6-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1182"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gacerhk-modules-2.6-sidux-686"
    style="opacity:0.25">
 	<use
    x="0.2295"
-   y="62.992599"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1184"
+   style="fill:rgb(128,194,189)"
+   id="useacerhk-modules-2.6-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1186"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="ggspca-modules-2.6-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="25.323"
-   y="62.992599"
+   x="25.3230"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1188"
+   style="fill:rgb(128,194,189)"
+   id="usegspca-modules-2.6-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1190"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="grfswitch-modules-2.6-sidux-686"
    style="opacity:0.25">
 	<use
    x="66.7071"
-   y="62.992599"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1192"
+   style="fill:rgb(128,194,189)"
+   id="userfswitch-modules-2.6-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1194"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gtp-smapi-modules-2.6-sidux-686"
    style="opacity:0.25">
 	<use
-   x="75.567596"
-   y="79.498299"
+   x="75.5676"
+   y="79.4983"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1196"
+   style="fill:rgb(128,194,189)"
+   id="usetp-smapi-modules-2.6-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1198"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gfsam7400-modules-2.6-sidux-amd64"
    style="opacity:0.25">
 	<use
    x="21.3899"
-   y="62.992599"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1200"
+   style="fill:rgb(128,194,189)"
+   id="usefsam7400-modules-2.6-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1202"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gbtrfs-modules-2.6-sidux-686"
    style="opacity:0.25">
 	<use
-   x="5.9928002"
-   y="62.992599"
+   x="5.9928"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1204"
+   style="fill:rgb(128,194,189)"
+   id="usebtrfs-modules-2.6-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1206"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gomnibook-modules-2.6-sidux-686"
    style="opacity:0.25">
 	<use
-   x="55.780399"
-   y="62.992599"
+   x="55.7804"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1208"
+   style="fill:rgb(128,194,189)"
+   id="useomnibook-modules-2.6-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1210"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gndiswrapper-modules-2.6-sidux-amd64"
    style="opacity:0.25">
 	<use
-   x="50.905201"
-   y="62.992599"
+   x="50.9052"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1212"
+   style="fill:rgb(128,194,189)"
+   id="usendiswrapper-modules-2.6-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1214"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gsquashfs-modules-2.6-sidux-686"
    style="opacity:0.25">
 	<use
-   x="71.788498"
-   y="62.992599"
+   x="71.7885"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1216"
+   style="fill:rgb(128,194,189)"
+   id="usesquashfs-modules-2.6-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1218"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gatl2-modules-2.6-sidux-amd64"
    style="opacity:0.25">
 	<use
    x="2.0848"
-   y="62.992599"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1220"
+   style="fill:rgb(128,194,189)"
+   id="useatl2-modules-2.6-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1222"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gndiswrapper-modules-2.6-sidux-686"
    style="opacity:0.25">
 	<use
-   x="50.905201"
-   y="62.992599"
+   x="50.9052"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1224"
+   style="fill:rgb(128,194,189)"
+   id="usendiswrapper-modules-2.6-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1226"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="get131x-modules-2.6-sidux-686"
    style="opacity:0.25">
 	<use
    x="17.5804"
-   y="62.992599"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1228"
+   style="fill:rgb(128,194,189)"
+   id="useet131x-modules-2.6-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1230"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gatl2-modules-2.6-sidux-686"
    style="opacity:0.25">
 	<use
    x="2.0848"
-   y="62.992599"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1232"
+   style="fill:rgb(128,194,189)"
+   id="useatl2-modules-2.6-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1234"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gr5u870-modules-2.6-sidux-686"
    style="opacity:0.25">
 	<use
-   x="65.630798"
-   y="62.992599"
+   x="65.6308"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1236"
+   style="fill:rgb(128,194,189)"
+   id="user5u870-modules-2.6-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1238"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gfsam7400-modules-2.6-sidux-686"
    style="opacity:0.25">
 	<use
    x="21.3899"
-   y="62.992599"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1240"
+   style="fill:rgb(128,194,189)"
+   id="usefsam7400-modules-2.6-sidux-686"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1242"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="grfswitch-modules-2.6-sidux-amd64"
    style="opacity:0.25">
 	<use
    x="66.7071"
-   y="62.992599"
+   y="62.9926"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1244"
+   style="fill:rgb(128,194,189)"
+   id="userfswitch-modules-2.6-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1246"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gqc-usb-modules-2.6-sidux-amd64"
    style="opacity:0.25">
 	<use
    x="62.4865"
-   y="85.518799"
+   y="85.5188"
    xlink:href="#swirl"
-   style="fill:#80c2bd"
-   id="use1248"
+   style="fill:rgb(128,194,189)"
+   id="useqc-usb-modules-2.6-sidux-amd64"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1250"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gw-pvrscan"
    style="opacity:0.25">
 	<use
-   x="88"
-   y="71.896004"
+   x="88.0000"
+   y="71.8960"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use1252"
+   style="fill:rgb(0,128,192)"
+   id="usew-pvrscan"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1254"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gw-pvrscan"
    style="opacity:0.25">
 	<use
-   x="88"
-   y="71.896004"
+   x="88.0000"
+   y="71.8960"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use1256"
+   style="fill:rgb(0,128,192)"
+   id="usew-pvrscan"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1258"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gsidux-vdr-server"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="87.173798"
+   x="70.8749"
+   y="87.1738"
    xlink:href="#swirl"
-   style="fill:#80ef90"
-   id="use1260"
+   style="fill:rgb(128,239,144)"
+   id="usesidux-vdr-server"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1262"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gsidux-vdr"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="87.173897"
+   x="70.8749"
+   y="87.1739"
    xlink:href="#swirl"
-   style="fill:#80ef90"
-   id="use1264"
+   style="fill:rgb(128,239,144)"
+   id="usesidux-vdr"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1266"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gsidux-vdr-xine"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="87.174103"
+   x="70.8749"
+   y="87.1741"
    xlink:href="#swirl"
-   style="fill:#80ef90"
-   id="use1268"
+   style="fill:rgb(128,239,144)"
+   id="usesidux-vdr-xine"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1270"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gsidux-vdr-server-extra"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="87.173798"
+   x="70.8749"
+   y="87.1738"
    xlink:href="#swirl"
-   style="fill:#80ef90"
-   id="use1272"
+   style="fill:rgb(128,239,144)"
+   id="usesidux-vdr-server-extra"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.1006424,1.1006424)"
-   id="g1274"
+   transform="scale(1.10064241629821,1.10064241629821)"
+   id="gsidux-vdr-client"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="87.172798"
+   x="70.8749"
+   y="87.1728"
    xlink:href="#swirl"
-   style="fill:#80ef90"
-   id="use1276"
+   style="fill:rgb(128,239,144)"
+   id="usesidux-vdr-client"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.0582674,1.0582674)"
-   id="g1278"
+   transform="scale(1.0582673679788,1.0582673679788)"
+   id="gconfigure-isdn"
    style="opacity:0.25">
 	<use
-   x="9.3296003"
+   x="9.3296"
    y="52.1898"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use1280"
+   style="fill:rgb(0,128,192)"
+   id="useconfigure-isdn"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.0582674,1.0582674)"
-   id="g1282"
+   transform="scale(1.0582673679788,1.0582673679788)"
+   id="gconfigure-gprs"
    style="opacity:0.25">
 	<use
-   x="9.3296003"
-   y="46.432999"
+   x="9.3296"
+   y="46.4330"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use1284"
+   style="fill:rgb(0,128,192)"
+   id="useconfigure-gprs"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.0582674,1.0582674)"
-   id="g1286"
+   transform="scale(1.0582673679788,1.0582673679788)"
+   id="gconfigure-modemlink"
    style="opacity:0.25">
 	<use
-   x="9.3296003"
-   y="62.991699"
+   x="9.3296"
+   y="62.9917"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use1288"
+   style="fill:rgb(0,128,192)"
+   id="useconfigure-modemlink"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.0582674,1.0582674)"
-   id="g1290"
+   transform="scale(1.0582673679788,1.0582673679788)"
+   id="ggfxboot-theme-sidux"
    style="opacity:0.25">
 	<use
    x="23.9426"
-   y="81.898598"
+   y="81.8986"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use1292"
+   style="fill:rgb(0,128,192)"
+   id="usegfxboot-theme-sidux"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.0582674,1.0582674)"
-   id="g1294"
+   transform="scale(1.0582673679788,1.0582673679788)"
+   id="gseminarix-handbook"
    style="opacity:0.25">
 	<use
-   x="70.468803"
+   x="70.4688"
    y="48.0439"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use1296"
+   style="fill:rgb(0,128,192)"
+   id="useseminarix-handbook"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.0582674,1.0582674)"
-   id="g1298"
+   transform="scale(1.0582673679788,1.0582673679788)"
+   id="gsidux-art-wallpaper"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="29.9252"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use1300"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-art-wallpaper"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.0582674,1.0582674)"
-   id="g1302"
+   transform="scale(1.0582673679788,1.0582673679788)"
+   id="gsidux-art-gnome"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="29.924299"
+   x="70.8749"
+   y="29.9243"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use1304"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-art-gnome"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.0582674,1.0582674)"
-   id="g1306"
+   transform="scale(1.0582673679788,1.0582673679788)"
+   id="gsidux-art-xfce-erebos"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="29.925301"
+   x="70.8749"
+   y="29.9253"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use1308"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-art-xfce-erebos"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.0582674,1.0582674)"
-   id="g1310"
+   transform="scale(1.0582673679788,1.0582673679788)"
+   id="gsidux-art-xfce"
    style="opacity:0.25">
 	<use
-   x="70.874901"
-   y="29.925301"
+   x="70.8749"
+   y="29.9253"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use1312"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-art-xfce"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.0582674,1.0582674)"
-   id="g1314"
+   transform="scale(1.0582673679788,1.0582673679788)"
+   id="gsidux-art-kde"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="29.9245"
    xlink:href="#swirl"
-   style="fill:#0080c0"
-   id="use1316"
+   style="fill:rgb(0,128,192)"
+   id="usesidux-art-kde"
    width="1900"
    height="1280" />
 </g>
 
 <g
-   transform="scale(1.0582674,1.0582674)"
-   id="g1318"
+   transform="scale(1.0582673679788,1.0582673679788)"
+   id="gsidux-keyrings"
    style="opacity:0.25">
 	<use
-   x="70.874901"
+   x="70.8749"
    y="56.7103"
    xlink:href="#swirl"
-   style="fill:#ffffff"
-   id="use1320"
+   style="fill:rgb(255,255,255)"
+   id="usesidux-keyrings"
    width="1900"
    height="1280" />
 </g>
