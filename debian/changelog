@@ -1,8 +1,20 @@
 sidux-art-ourea (0.0.2) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 20 Aug 2008 01:20:27 +0200
+  [ Bernard Gray ]
+  * clean up layers in wallpaper for inkscape
+  * reinstate dm-kdm buttons
+  * begin importing wallpaper for dm themes
+  * begin importing wallpaper for splash-kde
+  * begin importing wallpaper for splash-xfce
+  * set clip on splash-kde so there is no ugly overhang on transp corners
+  * vacuum defs on splash*
+  * add cubes.svg as potential layer for use in the *dm background
+  * apply cubes to the dm background, add a dark screen
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Thu, 21 Aug 2008 17:27:28 +1000
 
 sidux-art-ourea (0.0.1) unstable; urgency=low
 
