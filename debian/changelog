@@ -1,9 +1,5 @@
-sidux-art-ourea (0.0.2) UNRELEASED; urgency=low
+sidux-art-ourea (0.0.2) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * clean up layers in wallpaper for inkscape
   * reinstate dm-kdm buttons
   * begin importing wallpaper for dm themes
