@@ -6,8 +6,11 @@ sidux-art-ourea (0.0.3) UNRELEASED; urgency=low
   [ Bernard Gray ]
   * adjust colours and main deb logo on ksplash 
   * add screenshot for kdm 
+  * remove sidux-art-xfce virtual pkg 
+    - needs to be separate to the source to handle version 
+      increments between releases 
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sun, 24 Aug 2008 12:09:01 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Sun, 24 Aug 2008 18:46:35 +1000
 
 sidux-art-ourea (0.0.2) unstable; urgency=low
 

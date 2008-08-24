@@ -69,9 +69,3 @@ Recommends: sidux-art-wallpaper-ourea, dmz-cursor-theme
 Description: Xfce theme for sidux 2008-03 release
  Virtual package providing Xfce-splash and gdm themes
  for sidux 2008-03 (Ourea) release
-
-Package: sidux-art-xfce
-Architecture: all
-Depends: sidux-art-xfce-theme | sidux-art-xfce-ourea
-Description: Xfce theme for sidux 
- Virtual package providing Xfce themes for sidux
