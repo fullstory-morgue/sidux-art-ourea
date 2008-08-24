@@ -1,9 +1,5 @@
-sidux-art-ourea (0.0.3) UNRELEASED; urgency=low
+sidux-art-ourea (0.0.3) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * adjust colours and main deb logo on ksplash 
   * add screenshot for kdm 
   * remove sidux-art-xfce virtual pkg 
