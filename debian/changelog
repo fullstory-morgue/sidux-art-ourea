@@ -1,8 +1,12 @@
 sidux-art-ourea (0.0.4) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 24 Aug 2008 13:21:11 +0200
+  [ Niall Walsh ]
+  * Add initial apt2svg source (for wallpaper)
+
+ -- Niall Walsh <niallwalsh@users.berlios.de>  Fri, 29 Aug 2008 04:00:32 +0100
 
 sidux-art-ourea (0.0.3) unstable; urgency=low
 
