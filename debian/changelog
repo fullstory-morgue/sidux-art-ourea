@@ -1,9 +1,5 @@
-sidux-art-ourea (0.0.4) UNRELEASED; urgency=low
+sidux-art-ourea (0.0.4) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Niall Walsh ]
   * Add initial apt2svg source (for wallpaper)
 
  -- Niall Walsh <niallwalsh@users.berlios.de>  Fri, 29 Aug 2008 04:00:32 +0100
