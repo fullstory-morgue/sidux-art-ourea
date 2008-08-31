@@ -13,7 +13,7 @@
     <color2 rgb="#000000" />
     <blending mode="NoBlending" balance="100" reverse="0" />
     <pattern name="" />
-    <wallpaper mode="Scaled" url="theme:/wallpapers/desktop/sidux-ourea-1600x1200.png" />
+    <wallpaper mode="Scaled" url="/usr/share/wallpapers/sidux-ourea-1600x1200.png" />
   </desktop>
   <screensaver name="" />
   <icons name="crystalsvg" >
@@ -134,10 +134,6 @@
     <handle rgb="#efefef" object="kwin" />
     <inactiveHandle rgb="#efefef" object="kwin" />
   </colors>
-  <cursors name="" />
-  <wm type="builtin" name="kwin3_domino" >
-    <border size="0" />
-  </wm>
   <konqueror>
     <wallpaper url="" />
     <bgcolor rgb="#000000" />
@@ -148,14 +144,5 @@
     <showlefthidebutton value="0" />
     <showrighthidebutton value="1" />
   </panel>
-  <widgets name="domino" />
-  <fonts>
-    <font value="Bitstream Vera Sans,10,-1,5,50,0,0,0,0,0" object="General" />
-    <fixed value="Monospace,10,-1,5,50,0,0,0,0,0" object="General" />
-    <toolBarFont value="Bitstream Vera Sans,10,-1,5,50,0,0,0,0,0" object="General" />
-    <menuFont value="Bitstream Vera Sans,10,-1,5,50,0,0,0,0,0" object="General" />
-    <activeFont value="Bitstream Vera Sans,10,-1,5,75,0,0,0,0,0" object="WM" />
-    <taskbarFont value="Bitstream Vera Sans,10,-1,5,50,0,0,0,0,0" object="General" />
-    <StandardFont value="Bitstream Vera Sans,10,-1,5,50,0,0,0,0,0" object="FMSettings" />
-  </fonts>
+  <widgets name="qtcurve" />
 </ktheme>
