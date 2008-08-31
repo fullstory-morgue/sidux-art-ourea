@@ -1,9 +1,5 @@
-sidux-art-ourea (0.0.5) UNRELEASED; urgency=low
+sidux-art-ourea (0.0.5) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Kel Modderman ]
   * Fix preview for KDE sidux-ourea theme file.
   * Tweak a few things with sidux-ourea theme file:
     - don't supply fonts, we will have global defaults via sidux-settings-kde
