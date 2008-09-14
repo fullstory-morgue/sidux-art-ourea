@@ -1,9 +1,5 @@
-sidux-art-ourea (0.0.7) UNRELEASED; urgency=low
+sidux-art-ourea (0.0.7) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * update kde-splash preview to include some progress bar
   * add gdm preview
 
