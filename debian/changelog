@@ -1,9 +1,5 @@
-sidux-art-ourea (0.0.8) UNRELEASED; urgency=low
+sidux-art-ourea (0.0.8) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * fix opacity on ksplash progress bar causing display issues
 
  -- Bernard Gray <bernard.gray@gmail.com>  Sat, 15 Nov 2008 18:13:38 +1100
