@@ -1,9 +1,8 @@
-sidux-art-ourea (0.0.9) UNRELEASED; urgency=low
+sidux-art-ourea (0.0.9) unstable; urgency=low
 
-  * NOT RELEASED YET
   * make lintian happy and depend on ${misc:Depends}.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 03:00:25 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 23:33:10 +0100
 
 sidux-art-ourea (0.0.8) unstable; urgency=low
 
