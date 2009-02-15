@@ -1,9 +1,5 @@
-sidux-art-ourea (0.0.10) UNRELEASED; urgency=low
+sidux-art-ourea (0.0.10) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Niall Walsh ]
   * allow using Packages.gz files and use them in svn
 
  -- Niall Walsh <niallwalsh@users.berlios.de>  Sun, 15 Feb 2009 17:54:53 +0000
