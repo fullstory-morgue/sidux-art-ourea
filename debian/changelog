@@ -1,8 +1,12 @@
 sidux-art-ourea (0.0.10) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 23:35:33 +0100
+  [ Niall Walsh ]
+  * allow using Packages.gz files and use them in svn
+
+ -- Niall Walsh <niallwalsh@users.berlios.de>  Sun, 15 Feb 2009 17:54:53 +0000
 
 sidux-art-ourea (0.0.9) unstable; urgency=low
 

@@ -338,6 +338,12 @@ my (@aaaa);
 my (@zzzz);
 while ($_=shift(@inputs))
 {
+	my ($gz)=0;
+	if (s/\.gz$//)
+	{
+		system("zcat $_.gz > $_");
+		$gz=1;
+	}
 	open(STATUS,"$_")||usage("failed to open $_ : $!");
 	while (<STATUS>)
 	{
@@ -479,6 +485,7 @@ while ($_=shift(@inputs))
 		}
 	}
 	close(STATUS);
+	unlink($_) if ($gz);
 }
 
 # When we draw the swirls we do the biggest first
