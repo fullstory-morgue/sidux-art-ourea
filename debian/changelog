@@ -1,8 +1,9 @@
-sidux-art-ourea (0.0.11) UNRELEASED; urgency=low
+sidux-art-ourea (0.0.11) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * fix desktop-entry-contains-encoding-key.
+  * clarify licensing.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 15 Feb 2009 19:27:26 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 20 Feb 2009 17:44:18 +0100
 
 sidux-art-ourea (0.0.10) unstable; urgency=low
 
