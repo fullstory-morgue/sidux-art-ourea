@@ -1,8 +1,9 @@
-sidux-art-ourea (0.0.12) UNRELEASED; urgency=low
+sidux-art-ourea (0.0.12) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * ugly hack to remove /etc/default/kdm.d/kdmtheme, which would break on
+    upgrades to kde4.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 20 Feb 2009 17:46:40 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 06 Apr 2009 21:35:33 +0200
 
 sidux-art-ourea (0.0.11) unstable; urgency=low
 
