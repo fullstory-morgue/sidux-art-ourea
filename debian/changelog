@@ -1,8 +1,8 @@
-sidux-art-ourea (0.0.13) UNRELEASED; urgency=low
+sidux-art-ourea (0.0.13) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * temporarily drop kde3 themes, until they can be adapted.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 06 Apr 2009 21:37:02 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 07 Apr 2009 23:14:53 +0200
 
 sidux-art-ourea (0.0.12) unstable; urgency=low
 

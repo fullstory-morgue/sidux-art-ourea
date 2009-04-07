@@ -18,21 +18,21 @@ Description: GDM theme for sidux 2008-03 release
  the default GDM theme for the 2008-03 (Ourea)
  sidux release.
 
-Package: sidux-art-kdm-ourea
-Architecture: all
-Depends: ${misc:Depends},
-         kdm
-Description: KDM theme for sidux 2008-03 release
- the default KDM theme for the 2008-03 (Ourea)
- sidux release.
-
-Package: sidux-art-ksplash-ourea
-Architecture: all
-Depends: ${misc:Depends},
-         ksplash
-Description: KDE ksplash theme for sidux 2008-03 release
- the default KDE ksplash theme for the 2008-03 
- (Ourea) sidux release, using the default ksplash engine
+#Package: sidux-art-kdm-ourea
+#Architecture: all
+#Depends: ${misc:Depends},
+#         kdm
+#Description: KDM theme for sidux 2008-03 release
+# the default KDM theme for the 2008-03 (Ourea)
+# sidux release.
+#
+#Package: sidux-art-ksplash-ourea
+#Architecture: all
+#Depends: ${misc:Depends},
+#         ksplash
+#Description: KDE ksplash theme for sidux 2008-03 release
+# the default KDE ksplash theme for the 2008-03 
+# (Ourea) sidux release, using the default ksplash engine
 
 Package: sidux-art-xsplash-ourea
 Architecture: all
@@ -60,19 +60,19 @@ Description: sidux-edu wallpaper for 2008-03 release
  sidux-edu release. Includes 1920x1200, 1600x1200
  and 1280x1024 versions
 
-Package: sidux-art-kde-ourea
-Architecture: all
-Provides: sidux-art-kde-theme
-Depends: ${misc:Depends},
-         sidux-art-ksplash-ourea,
-         sidux-art-kdm-ourea,
-         kde-style-qtcurve,
-         gtk2-engines-qtcurve
-Recommends: sidux-art-wallpaper-ourea,
-            dmz-cursor-theme
-Description: KDE theme for sidux 2008-03 release
- Virtual package providing ksplash, kdm and KDE themes
- for sidux 2008-03 (Ourea) release
+#Package: sidux-art-kde-ourea
+#Architecture: all
+#Provides: sidux-art-kde-theme
+#Depends: ${misc:Depends},
+#         sidux-art-ksplash-ourea,
+#         sidux-art-kdm-ourea,
+#         kde-style-qtcurve,
+#         gtk2-engines-qtcurve
+#Recommends: sidux-art-wallpaper-ourea,
+#            dmz-cursor-theme
+#Description: KDE theme for sidux 2008-03 release
+# Virtual package providing ksplash, kdm and KDE themes
+# for sidux 2008-03 (Ourea) release
 
 Package: sidux-art-xfce-ourea
 Architecture: all
