@@ -1,8 +1,9 @@
-sidux-art-ourea (0.0.14) UNRELEASED; urgency=low
+sidux-art-ourea (0.0.14) ORPHANED; urgency=low
 
   * NOT RELEASED YET
+  * ORPHAN PACKAGE, moved to sidux-art-legacy.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 07 Apr 2009 23:18:49 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 19 Apr 2009 14:01:51 +0200
 
 sidux-art-ourea (0.0.13) unstable; urgency=low
 
